@@ -1,5 +1,5 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.it999.ru/edem.xml.gz"
-#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif",Обновление: 30.10.2025 17:39
+\#EXTM3U url-tvg="https://iptvx.one/EPG, http://epg.it999.ru/edem.xml.gz"
+#EXTINF:-1 group-title="🔺 INFO 🔺" tvg-logo="https://i.postimg.cc/76BWD3tc/1.gif",Обновление: 30.10.2025 18:11
 http://194.26.229.213/zastavka/index.m3u8
 #EXTINF:-1 tvg-id="pervy" group-title="Федеральные" tvg-logo="https://epg.iptvx.one/picons/pervy.png",Первый канал HD
 http://c.velestore.su:8880/bal_c1l8u2d4f9l1a3r7e1/perviy_orig/video.m3u8?token=eW9odXZlY3V8fGVXOW9kWFpsWTNVPQ==
@@ -21,7 +21,7 @@ http://stream.skaz.tv/stream/ch040/caa17f18/mono.m3u8
 #EXTINF:-1 tvg-id="otr" group-title="Федеральные" tvg-logo="https://epg.iptvx.one/picons/otr.png",ОТР HD
 http://stream.skaz.tv/stream/ch405/caa17f18/mono.m3u8
 #EXTINF:-1 tvg-id="tvcentr" group-title="Федеральные" tvg-logo="https://epg.iptvx.one/picons/tvcentr.png",ТВЦ HD
-http://lvq8lpmx.tvclub.xyz/iptv/42Y6DE5N5GMM7D42LWW5WY9T/10024/index.m3u8
+http://lvq8lpmx.tvclub.xyz/iptv/42Y6DE5N5GMM7D42LWW5WY9T/19222/index.m3u8
 #EXTINF:-1 tvg-id="rentv" group-title="Федеральные" tvg-logo="https://epg.iptvx.one/picons/rentv.png",РЕН ТВ HD
 http://stream.skaz.tv/stream/ch004/caa17f18/mono.m3u8
 #EXTINF:-1 tvg-id="spas" group-title="Федеральные" tvg-logo="https://epg.iptvx.one/picons/spas.png",Спас
