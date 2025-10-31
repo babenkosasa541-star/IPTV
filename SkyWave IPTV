@@ -1,35 +1,35 @@
 #EXTM3U 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://images-s.kinorium.com/movie/poster/86779/w1500_50190906.jpg",Асса (1987)
-http://192.168.0.101:8090/stream/%D0%90%D1%81%D1%81%D0%B0.1987%D0%B3%20WEB-DLRip%201080p.mkv?link=d34b4e8dec98caf5da676ccf2344cd76ad7b5549&index=1&play
+http://192.168.0.100:8090/stream/%D0%90%D1%81%D1%81%D0%B0.1987%D0%B3%20WEB-DLRip%201080p.mkv?link=d34b4e8dec98caf5da676ccf2344cd76ad7b5549&index=1&play
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://images-s.kinorium.com/movie/poster/49511/w1500_2994875.jpg",Баллада о солдате (1959)  
-http://192.168.0.101:8090/stream/%D0%91%D0%B0%D0%BB%D0%BB%D0%B0%D0%B4%D0%B0.%D0%BE.%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82%D0%B5.1959.%D0%9A%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B9.%D0%BF%D0%BB%D0%B0%D0%BD.BDRemux.1080p-rutracker.mkv?link=627e7bba3ddcf3ad81bbe600df8cae3d0a56325e&index=1&play
+http://192.168.0.100:8090/stream/%D0%91%D0%B0%D0%BB%D0%BB%D0%B0%D0%B4%D0%B0.%D0%BE.%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82%D0%B5.1959.%D0%9A%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B9.%D0%BF%D0%BB%D0%B0%D0%BD.BDRemux.1080p-rutracker.mkv?link=627e7bba3ddcf3ad81bbe600df8cae3d0a56325e&index=1&play
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://images-s.kinorium.com/movie/poster/62101/w1500_3549544.jpg",Белое солнце пустыни (1969)
-http://192.168.0.101:8090/stream/%D0%91%D0%B5%D0%BB%D0%BE%D0%B5.%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B5.%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D0%B8.1970.RU.%D0%9A%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B9.%D0%BF%D0%BB%D0%B0%D0%BD.BDRemux.1080p-rutracker.mkv?link=2723e62b4dd0788b17137b3dd25a2711533f61b1&index=1&play
+http://192.168.0.100:8090/stream/%D0%91%D0%B5%D0%BB%D0%BE%D0%B5.%D1%81%D0%BE%D0%BB%D0%BD%D1%86%D0%B5.%D0%BF%D1%83%D1%81%D1%82%D1%8B%D0%BD%D0%B8.1970.RU.%D0%9A%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B9.%D0%BF%D0%BB%D0%B0%D0%BD.BDRemux.1080p-rutracker.mkv?link=2723e62b4dd0788b17137b3dd25a2711533f61b1&index=1&play
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://images-s.kinorium.com/movie/poster/58719/w1500_3063238.jpg",Бриллиантовая рука (1969)
-http://192.168.0.101:8090/stream/%D0%91%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F.%D1%80%D1%83%D0%BA%D0%B0.1968.RU.%D0%9A%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B9.%D0%BF%D0%BB%D0%B0%D0%BD.BDRemux.1080p-rutracker.mkv?link=fbcb83116c98f435dca0252ee8e69c5afa3d7b14&index=1&play
+http://192.168.0.100:8090/stream/%D0%91%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F.%D1%80%D1%83%D0%BA%D0%B0.1968.RU.%D0%9A%D1%80%D1%83%D0%BF%D0%BD%D1%8B%D0%B9.%D0%BF%D0%BB%D0%B0%D0%BD.BDRemux.1080p-rutracker.mkv?link=fbcb83116c98f435dca0252ee8e69c5afa3d7b14&index=1&play
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://images-s.kinorium.com/movie/poster/14614/w1500_54715359.jpg",Броненосец «Потемкин» (1925)
-http://192.168.0.101:8090/stream/Battleship.Potemkin.1925.1080p.BluRay.x264-CiNEFiLE.mkv?link=1fde53fcdc47cc8011e4b221226c9bc25864f032&index=1&play
+http://192.168.0.100:8090/stream/Battleship.Potemkin.1925.1080p.BluRay.x264-CiNEFiLE.mkv?link=1fde53fcdc47cc8011e4b221226c9bc25864f032&index=1&play
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://images-s.kinorium.com/movie/poster/47110/w1500_52947206.jpg",Весна на Заречной улице (1956)  
-http://192.168.0.101:8090/stream/Vesna.Na.Zarechnoy.Ulitce.1956.1080p.BluRay.Remux.RUS.KAZTORKA.mkv?link=2871ddc8ce162681a05bbaa7f467d4631d5dff54&index=1&play
+http://192.168.0.100:8090/stream/Vesna.Na.Zarechnoy.Ulitce.1956.1080p.BluRay.Remux.RUS.KAZTORKA.mkv?link=2871ddc8ce162681a05bbaa7f467d4631d5dff54&index=1&play
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://images-s.kinorium.com/movie/poster/71186/w1500_52431518.jpg",Вооружен и очень опасен (1977)
-http://192.168.0.101:8090/stream/Vooruzen.i.ocen.opasen.1977.DVDRip(AVC).MediaClub.mkv?link=212325cbbe3ecb19708a71cac0cd1d0800a19b57&index=1&play
+http://192.168.0.100:8090/stream/Vooruzen.i.ocen.opasen.1977.DVDRip(AVC).MediaClub.mkv?link=212325cbbe3ecb19708a71cac0cd1d0800a19b57&index=1&play
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://images-s.kinorium.com/movie/poster/67902/w1500_3560906.jpg",Ирония судьбы, или С легким паром! (1975)
-http://192.168.0.101:8090/stream/%D0%98%D1%80%D0%BE%D0%BD%D0%B8%D1%8F%20%D1%81%D1%83%D0%B4%D1%8C%D0%B1%D1%8B%2C%20%D0%B8%D0%BB%D0%B8%20%D0%A1%20%D0%BB%D1%91%D0%B3%D0%BA%D0%B8%D0%BC%20%D0%BF%D0%B0%D1%80%D0%BE%D0%BC!%20(BDRemux%201080p).mkv?link=69299f0847498960acde0848d0c99dc8a50f160e&index=1&play
+http://192.168.0.100:8090/stream/%D0%98%D1%80%D0%BE%D0%BD%D0%B8%D1%8F%20%D1%81%D1%83%D0%B4%D1%8C%D0%B1%D1%8B%2C%20%D0%B8%D0%BB%D0%B8%20%D0%A1%20%D0%BB%D1%91%D0%B3%D0%BA%D0%B8%D0%BC%20%D0%BF%D0%B0%D1%80%D0%BE%D0%BC!%20(BDRemux%201080p).mkv?link=69299f0847498960acde0848d0c99dc8a50f160e&index=1&play
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://images-s.kinorium.com/movie/poster/76150/w1500_51572043.jpg",Карнавал (1981)
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://images-s.kinorium.com/movie/poster/47748/w1500_51742913.jpg",Летят журавли (1957)
-http://192.168.0.101:8090/stream/%D0%9B%D0%B5%D1%82%D1%8F%D1%82.%D0%B6%D1%83%D1%80%D0%B0%D0%B2%D0%BB%D0%B8.1957.Criterion.Collection.BDRemux.1080p-rutracker.mkv?link=f0cb699b2c20b52d745b9e1198bd9680c83abfcf&index=1&play
+http://192.168.0.100:8090/stream/%D0%9B%D0%B5%D1%82%D1%8F%D1%82.%D0%B6%D1%83%D1%80%D0%B0%D0%B2%D0%BB%D0%B8.1957.Criterion.Collection.BDRemux.1080p-rutracker.mkv?link=f0cb699b2c20b52d745b9e1198bd9680c83abfcf&index=1&play
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://images-s.kinorium.com/movie/poster/16046/w1500_2725363.jpg",Мать (1926)
-http://192.168.0.101:8090/stream/Mother.1926.US.Flicker.Alley.BDRemux.1080p-rutracker.mkv?link=242a7e0619cf776bc6b916b286ce96807af79192&index=1&play
+http://192.168.0.100:8090/stream/Mother.1926.US.Flicker.Alley.BDRemux.1080p-rutracker.mkv?link=242a7e0619cf776bc6b916b286ce96807af79192&index=1&play
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://images-s.kinorium.com/movie/poster/73500/w1500_3153417.jpg",Москва слезам не верит (1979)
-http://192.168.0.101:8090/stream/Moskva.slezam.ne.verit.1979.x264.Blu-Ray.Remux.(1080p).mkv?link=ed6ccdd2cb5a5b5ec2abb975e7ab723a426be1e7&index=1&play
+http://192.168.0.100:8090/stream/Moskva.slezam.ne.verit.1979.x264.Blu-Ray.Remux.(1080p).mkv?link=ed6ccdd2cb5a5b5ec2abb975e7ab723a426be1e7&index=1&play
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://images-s.kinorium.com/movie/poster/54835/w1500_50566186.jpg",Мне двадцать лет (1967)
-http://192.168.0.101:8090/stream/%D0%9C%D0%BD%D0%B5%20%D0%B4%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C%20%D0%BB%D0%B5%D1%82.1964.by.Alexandr%20.mkv?link=a4aa593f08cec3194ec3439155854d3859c913f5&index=1&play
+http://192.168.0.100:8090/stream/%D0%9C%D0%BD%D0%B5%20%D0%B4%D0%B2%D0%B0%D0%B4%D1%86%D0%B0%D1%82%D1%8C%20%D0%BB%D0%B5%D1%82.1964.by.Alexandr%20.mkv?link=a4aa593f08cec3194ec3439155854d3859c913f5&index=1&play
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://images-s.kinorium.com/movie/poster/76909/w1500_50922321.jpg",Покровские ворота (1982)
-http://192.168.0.101:8090/stream/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0%20(%20BDRemux%20).mkv?link=87cea3bac79633fb36e09af07a777cba0244e89e&index=1&play
+http://192.168.0.100:8090/stream/%D0%9F%D0%BE%D0%BA%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B5%20%D0%B2%D0%BE%D1%80%D0%BE%D1%82%D0%B0%20(%20BDRemux%20).mkv?link=87cea3bac79633fb36e09af07a777cba0244e89e&index=1&play
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://images-s.kinorium.com/movie/poster/59466/w1500_52190606.jpg",Семь стариков и одна девушка (1968)
-http://192.168.0.101:8090/stream/Sem.starikov.i.odna.devushka.1969.XviD.DVDRip_Kinozal.TV.avi?link=44d00b59dd2cb10db6b151d48d5d5c6fbfd45536&index=1&play
+http://192.168.0.100:8090/stream/Sem.starikov.i.odna.devushka.1969.XviD.DVDRip_Kinozal.TV.avi?link=44d00b59dd2cb10db6b151d48d5d5c6fbfd45536&index=1&play
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://images-s.kinorium.com/movie/poster/64517/w1500_50518601.jpg",Солярис (1972)
-http://192.168.0.101:8090/stream/Solaris.1972.NL.Lumi%C3%A8re.Publishing.BDRemux.1080p-rutracker.mkv?link=6f988d410b35f92e8b7f320f7f3296cf27b69d2c&index=1&play
+http://192.168.0.100:8090/stream/Solaris.1972.NL.Lumi%C3%A8re.Publishing.BDRemux.1080p-rutracker.mkv?link=6f988d410b35f92e8b7f320f7f3296cf27b69d2c&index=1&play
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://images-s.kinorium.com/movie/poster/73908/w1500_52953543.jpg",Тот самый Мюнхгаузен (1979)
 https://dl.dropbox.com/scl/fi/njvjvvdgts755y9rhv6fy/75661702.mp4?rlkey=dhb3owwcw82ozdl1fim8vr0dz&st=t3y1y0iu&dl=0
