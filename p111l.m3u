@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="http://epg.one/epg.xml.gz"
+#EXTINF:0 group-title="Детские" tvg-id="284" tvg-logo="http://epg.one/img2/284.png" tvg-rec="0",Мультимузыка
+http://92.63.106.41/24hp/stream.php?id=156
