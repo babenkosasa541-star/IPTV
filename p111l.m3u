@@ -1342,13 +1342,13 @@ http://ru2.tvtm.one/ch2093/mono.m3u8?token=ruslan35.v2_ydVj22Dv-rIMsys6KV-d3FRAN
 #EXTINF:-1 tvg-id="france24-en" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/france24.png",France 24 English HD
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="ua-tv" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/ua-tv.png",FreeДом HD
-http://bde.online24.pm/play/350/E0B9D2508CF5B92/video.m3u8
+http://s06.wsbof.com:8090/s/9b6f8047/freedom-ua-hd.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Информационные" tvg-logo="https://iptvx.one/assets/files/2025-04-10/1744298943-369318-newsfront.png",NewsFront HD
 https://tv.2kita.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="nhk-world" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/nhk-world.png",NHK World Japan HD
 https://nhk.lls.pbs.org/index_1080p.m3u8
-#EXTINF:-1 tvg-id="ostwest24" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/ostwest24.png",OstWest 24 HD
-http://s.only4.tv/10785/index.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 tvg-id="ostwest24" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/ostwest24.png",OstWest 24
+http://81.166.129.185:8001/1:0:16:6F:2FA8:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="rt-news" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/rt-news.png",RT English HD
 https://hugh.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Информационные" tvg-logo="",RTN
