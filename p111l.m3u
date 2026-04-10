@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://iptvx.one/EPG"
-#EXTINF:-1 tvg-id="rtr-planeta-eu" group-title="Общая" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta.png",RTR Planeta (Европа)
+#EXTINF:-1 tvg-id="rtr-planeta-eu" group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta.png",RTR Planeta (Европа)
 https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist_4.m3u8
-#EXTINF:-1 tvg-id="rtr-planeta-amerika" group-title="Общая" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta.png",RTR Planeta (США)
+#EXTINF:-1 tvg-id="rtr-planeta-amerika" group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta.png",RTR Planeta (США)
 https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist_4.m3u8
 #EXTINF:-1 tvg-id="zvezda" group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/zvezda.png",Звезда HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
@@ -22,9 +22,9 @@ https://edge02d.mediavitrina.ru/hls-livef1/otr_0/tracks-v5a1/mono.ts.m3u8?token=
 https://edge02d.mediavitrina.ru/hls-livef1/1tv/tracks-v5a1/mono.ts.m3u8?token=v2.YQlHh9Ldm3pZ47KWHRMVYhJ9JXlCVjhEogM0aiSqQn8.7DivASrLoIW8cQF9BgzyoFz1pfHkrOdJb4sK1qt_EyA.1776403413.cf8d7fdc344e5e23e8b5a57134eb0c57
 #EXTINF:-1 tvg-id="pervy" group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/pervy.png",Первый канал HD (orig)
 http://cdn.balelbrus.com/bigteisti1/perviy_orig/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
-#EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="Общая" tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-eu.png",Первый канал. Всемирная сеть HD (Европа)
+#EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-eu.png",Первый канал. Всемирная сеть HD (Европа)
 https://pkvc-hls7.cdnvideo.ru/pkvc/pk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="Общая" tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-csi.png",Первый канал. Всемирная сеть (СНГ)
+#EXTINF:-1 tvg-id="pervy-kanal-csi" group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/pervy-kanal-csi.png",Первый канал. Всемирная сеть (СНГ)
 http://217.154.10.99:2020/channel/163f5ca9/index.m3u8?q=ac8328a8c05870646c45caa253710a85
 #EXTINF:-1 tvg-id="5kanal-ru" group-title="Общие" tvg-logo="https://iptvx.one/assets/files/2025-03-30/1743352183-254631-5tvruhd200.png",Пятый канал HD
 https://edge02d.mediavitrina.ru/hls-livef7/5tv/tracks-v5a1/mono.ts.m3u8?token=v2.YQlHh9Ldm3pZ47KWHRMVYhJ9JXlCVjhEogM0aiSqQn8.7DivASrLoIW8cQF9BgzyoFz1pfHkrOdJb4sK1qt_EyA.1776403413.cf8d7fdc344e5e23e8b5a57134eb0c57
@@ -38,9 +38,9 @@ http://cdn.balelbrus.com/bigteisti20/08946979/index.m3u8?token=eG1lbnRzMnx8ZVhWe
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/1080p.m3u8
 #EXTINF:-1 tvg-id="rossia1" group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/rossia1.png",Россия 1 HD (orig)
 http://cdn.balelbrus.com/bigteisti8/russia1_orig/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
-#EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="Общая" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta-azia.png",Россия РТР (Азия)
+#EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta-azia.png",Россия РТР (Азия)
 https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist_4.m3u8
-#EXTINF:-1 tvg-id="rtr-planeta-arm" group-title="Общая" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta-azia.png",Россия РТР (СНГ)
+#EXTINF:-1 tvg-id="rtr-planeta-arm" group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta-azia.png",Россия РТР (СНГ)
 https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist_4.m3u8
 #EXTINF:-1 tvg-id="tvcentr" group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/tvcentr.png",ТВЦ HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/19222/index.m3u8
