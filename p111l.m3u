@@ -1334,7 +1334,7 @@ http://89.105.221.127/CNN/index.m3u8?token=test
 #EXTINF:-1 tvg-id="deutsche-welle-ru" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png",Deutsche Welle Russia HD
 https://dwamdstream110.akamaized.net/hls/live/2017971-b/dwstream110/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="eqtv" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/eqtv.png",eQtv
-http://81.166.129.185:8001/1:0:16:72:2FA8:13E:820000:0:0:0
+http://91.228.35.249:8001/1:0:16:72:2FA8:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="euronews" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/euronews.png",Euronews Russia
 http://live.biluspeh.com/8084/video.m3u8?token=o5hVAkevx5qEzmhS
 #EXTINF:-1 tvg-id="fox-news-us" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/fox-news-us.png",FOX News HD
@@ -1348,21 +1348,21 @@ https://tv.2kita.com/stream/index.m3u8
 #EXTINF:-1 tvg-id="nhk-world" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/nhk-world.png",NHK World Japan HD
 https://nhk.lls.pbs.org/index_1080p.m3u8
 #EXTINF:-1 tvg-id="ostwest24" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/ostwest24.png",OstWest 24
-http://81.166.129.185:8001/1:0:16:6F:2FA8:13E:820000:0:0:0:
+http://91.228.35.249:8001/1:0:16:6F:2FA8:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="rt-news" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/rt-news.png",RT English HD
 https://hugh.cdn.rumble.cloud/live/hr6yv36f/slot-4/mxtm-wdfe_1080p/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Информационные" tvg-logo="https://dl.dropbox.com/scl/fi/60q8dsds4h2cwe5nbm5ul/2026-04-07-141909.png?rlkey=l4k7pvvl1gbl3da0y33uzuqer&dl=0",RTN
 http://4.59.210.197:8815/udp/127.0.0.1:6002
 #EXTINF:-1 tvg-id="russfuture" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/russfuture.png",Russia's Future
-http://81.166.129.185:8001/1:0:16:68:2fa8:13e:820000:0:0:0:
+http://91.228.35.249:8001/1:0:16:68:2fa8:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="no_epg" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/sky-news-uk.png",Sky News Europe HD
 https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8?ads.cdn=https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com&ads.csid=sitesection:SkyNews:Web&manifest.mthost=7a38d30e7dd84cd0872ab4f691c38f58&manifest.region=mediatailor.eu-west-1.amazonaws.com
 #EXTINF:-1 tvg-id="svoboda" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/svoboda.png",Svoboda
-http://81.166.129.185:8001/1:0:16:65:2fa8:13e:820000:0:0:0:
+http://91.228.35.249:8001/1:0:16:65:2fa8:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="no_epg" group-title="Информационные" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Svoboda_News.svg/revision/latest?cb=20250609093901",Svoboda News
-http://81.166.129.185:8001/1:0:16:66:2fa8:13e:820000:0:0:0:
+http://91.228.35.249:8001/1:0:16:66:2fa8:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="no_epg" group-title="Информационные" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Svoboda%2B.svg/revision/latest?cb=20250923022544",Svoboda+
-http://81.166.129.185:8001/1:0:16:69:2fa8:13e:820000:0:0:0:
+http://91.228.35.249:8001/1:0:16:69:2fa8:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="no_epg" group-title="Информационные" tvg-logo="https://static-iptv2021.cdnvideo.ru/572aecd6-static/channel/23059/logo_256_1707734135.png",Too Much Business HD
 http://92.63.106.41/24hp/stream.php?id=8858
 #EXTINF:-1 tvg-id="no_epg" group-title="Информационные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/500px-TRT_World.svg.png",TRT World HD
@@ -1372,7 +1372,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/vmeste-rf.png",Вместе РФ HD
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Информационные" tvg-logo="https://dl.dropbox.com/scl/fi/ly3x7mxz82mtbeoqe667j/2025-04-05-002253.png?rlkey=nyudoqdmb849zz442xemmue7s&dl=0",Гордон Live
-http://81.166.129.185:8001/1:0:16:67:2FA8:13E:820000:0:0:0
+http://91.228.35.249:8001/1:0:16:67:2FA8:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="dozhd" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/dozhd.png",Дождь HD
 http://live.biluspeh.com/8113/video.m3u8?token=o5hVAkevx5qEzmhS
 #EXTINF:-1 tvg-id="dumatv" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/dumatv.png",Дума ТВ
@@ -1454,7 +1454,7 @@ http://cdn.balelbrus.com/bigteisti20/08946980/index.m3u8?token=eG1lbnRzMnx8ZVhWe
 #EXTINF:-1 tvg-id="tnt-int-by" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tnt-int-by.png",ТНТ International (Беларусь)
 http://92.63.106.41/ptv/voka/ch.php?id=31ec7e4b-c7aa-48d4-978d-f482a6d4a850
 #EXTINF:-1 tvg-id="tnt-int-eu" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tnt-int-eu.png",ТНТ International (Европа)
-http://81.166.129.185:8001/1:0:1:6a7:3138:13e:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:6a7:3138:13e:820000:0:0:0:
 #EXTINF:-1 group-title="Разлекательные" tvg-logo="https://epg.iptvx.one/picons/tnt-int-eu.png",ТНТ International (СНГ)
 http://a3104942360-s80718.cdn.ngenix.net/hls/CH_TNT_INT/video_800x450_avc1/playlist.m3u8?useseq=t
 #EXTINF:-1 tvg-id="tnt4" tvg-name="ТНТ4 HD" tvg-logo="https://epg.iptvx.one/picons/tnt4.png" group-title="Развлекательные",ТНТ4 HD
@@ -1809,7 +1809,7 @@ http://92.63.106.41/24hp/stream.php?id=8701
 #EXTINF:-1 tvg-id="no_epg" group-title="Музыкальные" tvg-logo="https://kavkazmusic.tv/wp-content/uploads/2019/07/logo1.png",Kavkaz Music TV HD
 https://vsd280.okcdn.ru/hls/568846912056.m3u8/sig/m9yebRjDXHQ/expires/1776017404913/srcIp/178.173.126.139/urls/185.226.53.57/clientType/0/srcAg/CHROME/mid/1643385658936/568846912056_fullhd/index.m3u8
 #EXTINF:-1 tvg-id="kinopolskamuz" group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/kinopolskamuz.png",Kino Polska Muzyka
-http://81.166.129.185:8001/1:0:1:3d60:2c88:13e:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:3d60:2c88:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="live-music-channel" group-title="Музыкальные" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/36/Live_Music_Channel.png/revision/latest?cb=20170106052045&path-prefix=ru",Live Music Channel HD
 http://92.63.106.41/ptv/voka/ch.php?id=7a65e6b3-7586-48a2-9f0e-02cdd76fff3c
 #EXTINF:-1 tvg-id="mcm-top" group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/mcm-top.png",MCM Top Russia
@@ -2060,7 +2060,7 @@ http://217.154.10.99:2020/channel/n18c85506/index.m3u8?q=ac8328a8c05870646c45caa
 #EXTINF:-1 tvg-name="Первый канал Евразия" group-title="Казахстан",Первый канал Евразия
 http://217.154.10.99:2020/channel/n2a6528ed/index.m3u8?q=ac8328a8c05870646c45caa253710a85
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/7f/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_%D0%95%D0%B2%D1%80%D0%B0%D0%B7%D0%B8%D1%8F_%D1%81%D0%BE_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA%D0%B0_%28%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BE%29.png/revision/latest?cb=20241102114813&format=original&path-prefix=ru" group-title="Казахстан",Первый канал Евразия Международный
-http://81.166.129.185:8001/1:0:1:1C92:332C:13E:820000:0:0:0
+http://91.228.35.249:8001/1:0:1:1C92:332C:13E:820000:0:0:0
 #EXTINF:-1 tvg-name="Первый Карагандинский" group-title="Казахстан",Первый Карагандинский
 http://217.154.10.99:2020/channel/409ce119/index.m3u8?q=ac8328a8c05870646c45caa253710a85
 #EXTINF:-1 tvg-name="Пятница Int KZ" group-title="Казахстан",Пятница! International
@@ -2143,24 +2143,18 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 http://cdn.balelbrus.com/bigteisti2/08936915/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
 #EXTINF:-1 tvg-id="no_epg" group-title="Азербайджан" tvg-logo="https://dunyatv.az/assets/img/logo/logo.png",Dunya TV
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/2192/index.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="Азербайджан" tvg-logo="http://193.70.86.92/chlogo/logo/tv/hh/hadi_tv3.png",Hadi TV3 HD
-https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
 #EXTINF:-1 tvg-id="ictimai-tv" group-title="Азербайджан" tvg-logo="https://dl.dropbox.com/scl/fi/sv9kn1t4oqld4nkrdtxfk/2025-03-17-174313.png?rlkey=dnzffnutuyfc4tcvh1vlkktqy&dl=0",İctimai TV HD
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/ictimai-tv.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Азербайджан" tvg-logo="https://katv1.az/images/tild3561-3937-4161-a135-363566366232__katv1-logoag.png",K@TV1
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/16042/index.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Азербайджан" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/38/Kanal_S_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282022-%D0%BD.%D0%B2.%2C_%D0%B1%D0%B5%D0%B7_%D0%BD%D0%B0%D0%B4%D0%BF%D0%B8%D1%81%D0%B8%29.png/revision/latest?cb=20220112162738&format=original&path-prefix=ru",Kanal S HD
-v2_jS0ZXbwC20qHvEfxH1JSancD1b5d8zOyi5vtecZDUzi3fqjwhyucEsshpDRM79hmYfW3yhdJEmYREw
-#EXTINF:-1 tvg-id="no_epg" group-title="Азербайджан" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/MCJ_Logo.png",MCJ Shopping
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/16046/index.m3u8
+http://ru2.tvtm.one/ch1528/mono.m3u8?token=ruslan35.v2_jS0ZXbwC20qHvEfxH1JSancD1b5d8zOyi5vtecZDUzi3fqjwhyucEsshpDRM79hmYfW3yhdJEmYREw
 #EXTINF:-1 tvg-id="medeniyyet" group-title="Азербайджан" tvg-logo="https://epg.iptvx.one/picons/medeniyyet.png",Mədəniyyət TV HD
 http://ru2.tvtm.one/ch1537/mono.m3u8?token=ruslan35.v2_sr437jOEKA-HBtYOTi6jLC6jlAvN3lTSDcR3RmG_S150GIfgxhbSYRbgACtVedDlixBep5JNWWBfTQ
 #EXTINF:-1 tvg-id="no_epg" group-title="Азербайджан" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/4/47/Space_TV_%28%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%29_%282023-%D0%BD.%D0%B2.%29.png/revision/latest/scale-to-width-down/1000?cb=20230914100241&path-prefix=ru",Space TV HD
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="Азербайджан" tvg-logo="http://193.70.86.92/chlogo/logo/tv/ss/star_tv_uk.png",Star TV HD
-http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="xezer" group-title="Азербайджан" tvg-logo="https://epg.iptvx.one/picons/xezer.png",Xəzər TV HD
-http://s06.wsbof.com:8090/s/8daad2e2/xazar-tv-az-hd.m3u8
+http://ru2.tvtm.one/ch1539/mono.m3u8?token=ruslan35.v2_TO-4EHT5GMK3NzVuq6prGTt6lw5FZtAx9pK8-1Lvr4iw3kMhPqMTEgKwjaFXM8Jnfr4Y6xMnfOzeyg
 #EXTINF:-1 tvg-id="no_epg" group-title="Таджикистан" tvg-logo="https://dl.dropbox.com/scl/fi/xbktyu75zq7ezwjwf9qyg/2026-04-08-164811.png?rlkey=btpzxpd7rgdlund6scs4rurws&dl=00",Душанбе HD
 http://live.teleradiocom.tj/7/3m.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Таджикистан" tvg-logo="https://dl.dropbox.com/scl/fi/sh1vgqs2ixxlkpgnjjxkc/2026-04-08-164527.png?rlkey=0v9s85sypm81j8ojchdmlg70i&dl=0",Илм ва табиат HD
@@ -2218,73 +2212,73 @@ https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist
 #EXTINF:-1 tvg-id="no_epg" group-title="Румыния" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/TVR_Tg_Mures_OSB_2019.svg/revision/latest?cb=20210828133124",TVR Tg. Mureș (Тыргу-Муреш)
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Польша" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Antena_2022.png/revision/latest?cb=20250904000909",Antena
-http://81.166.129.185:8001/1:0:19:114D:2AF8:13E:820000:0:0:0:
+http://91.228.35.249:8001/1:0:19:114D:2AF8:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="bbc-first-pl" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/bbc-first-pl.png",BBC First HD
-http://81.166.129.185:8001/1:0:19:1133:2AF8:13E:820000:0:0:0:
+http://91.228.35.249:8001/1:0:19:1133:2AF8:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="canal-pl-dokument" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/canal-pl-dokument.png",Canal+ Dokument HD
-http://81.166.129.185:8001/1:0:1:3d58:2c88:13e:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:3d58:2c88:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="disney-xd" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/disney-xd.png",Disney XD
-http://81.166.129.185:8001/1:0:1:1cb5:1ce8:71:820000:0:0:0
+http://91.228.35.249:8001/1:0:1:1cb5:1ce8:71:820000:0:0:0
 #EXTINF:-1 tvg-id="polonia1" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/polonia1.png",Polonia 1
 http://78.130.250.2:8023/play/a05t/index.m3u8
 #EXTINF:-1 tvg-id="polsat" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/polsat.png",Polsat HD
-http://81.166.129.185:8001/1:0:1:3391:3390:71:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:3391:3390:71:820000:0:0:0:
 #EXTINF:-1 tvg-id="polsat2" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/polsat2.png",Polsat 2 HD
-http://81.166.129.185:8001/1:0:1:339a:3390:71:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:339a:3390:71:820000:0:0:0:
 #EXTINF:-1 tvg-id="polsat-news" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/polsat-news.png",Polsat News HD
-http://81.166.129.185:8001/1:0:1:3333:3390:71:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:3333:3390:71:820000:0:0:0:
 #EXTINF:-1 tvg-id="polsat-rodzina" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/polsat-rodzina.png",Polsat Rodzina HD
-http://81.166.129.185:8001/1:0:1:3333:3390:71:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:3333:3390:71:820000:0:0:0:
 #EXTINF:-1 tvg-id="super-polsat" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/super-polsat.png",Super Polsat HD
-http://81.166.129.185:8001/1:0:1:339b:3390:71:820000:0:0:0:
-#EXTINF:-1 tvg-id="no_epg" group-title="Польша",TBN Polska HD
-http://81.166.129.185:8001/1:0:1:35EF:1388:13E:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:339b:3390:71:820000:0:0:0:
+#EXTINF:-1 tvg-id="no_epg" group-title="Польша" tvg-logo="https://dl.dropbox.com/scl/fi/emvxf5j95f6aex55d3mtd/2026-04-11-213032.png?rlkey=i6jyacxqoua512y6j0aoybzuz&dl=0",TBN Polska HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=227370&extension=ts&play_token=u0zjVMnvoP
 #EXTINF:-1 tvg-id="tele5" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tele5.png",Tele 5
-http://81.166.129.185:8001/1:0:1:423b:3db8:13e:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:423b:3db8:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="ttv-pl" group-title="Польша" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/TTV_2015.svg/revision/latest?cb=20220411171817",TTV HD
-http://81.166.129.185:8001/1:0:1:3dd7:640:13e:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:3dd7:640:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="tv4-pl" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tv4-pl.png",TV4 HD
-http://81.166.129.185:8001/1:0:1:33a3:3390:71:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:33a3:3390:71:820000:0:0:0:
 #EXTINF:-1 tvg-id="tv6-pl" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tv6-pl.png",TV6 HD
-http://81.166.129.185:8001/1:0:1:3394:3390:71:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:3394:3390:71:820000:0:0:0:
 #EXTINF:-1 tvg-id="tvn-pl" group-title="Польша" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/TVN_logo_2024.svg/375px-TVN_logo_2024.svg.png",TVN HD
-http://81.166.129.185:8001/1:0:1:3dcd:640:13e:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:3dcd:640:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="tvn24-pl" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvn24-pl.png",TVN24 HD
-http://81.166.129.185:8001/1:0:1:3DD2:640:13E:820000:0:0:0
+http://91.228.35.249:8001/1:0:1:3DD2:640:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="tvn24-bis-pl" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvn24-bis-pl.png",TVN24 BIS HD
-http://81.166.129.185:8001/1:0:19:10EA:3E8:13E:820000:0:0:0:
+http://91.228.35.249:8001/1:0:19:10EA:3E8:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="tvn7-pl" group-title="Польша" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/23/TVN7_2021.svg/revision/latest?cb=20210828130002&format=original&path-prefix=ru",TVN7 HD
-http://81.166.129.185:8001/1:0:1:3dd3:640:13e:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:3dd3:640:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="tvn-style-pl" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvn-style-pl.png",TVN Style HD
-http://81.166.129.185:8001/1:0:1:3DCE:640:13E:820000:0:0:0
+http://91.228.35.249:8001/1:0:1:3DCE:640:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="tvn-turbo-pl" group-title="Польша" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo_TVN_Turbo_2009.svg",TVN Turbo HD
-http://81.166.129.185:8001/1:0:1:3DD1:640:13E:820000:0:0:0
+http://91.228.35.249:8001/1:0:1:3DD1:640:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="tvp1" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp1.png",TVP 1 HD 
-http://81.166.129.185:8001/1:0:1:3abd:514:13e:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:3abd:514:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="tvp2" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp2.png",TVP 2 HD 
-http://81.166.129.185:8001/1:0:1:c22:1e78:71:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:c22:1e78:71:820000:0:0:0:
 #EXTINF:-1 tvg-id="tvp3-wars" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp3-wars.png",TVP3 Warszawa HD 
-http://81.166.129.185:8001/1:0:1:13F7:5DC:13E:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:13F7:5DC:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="tvp-hd" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp-hd.png",TVP HD
-http://81.166.129.185:8001/1:0:1:1138:2AF8:13E:820000:0:0:0
+http://91.228.35.249:8001/1:0:1:1138:2AF8:13E:820000:0:0:0
 #EXTINF:-1 tvg-id="tvp-abc" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp-abc.png",TVP ABC
-http://81.166.129.185:8001/1:0:1:3D5F:2C88:13E:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:3D5F:2C88:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="tvp-dokument" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp-dokument.png",TVP Dokument HD
-http://81.166.129.185:8001/1:0:1:3abd:514:13e:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:3abd:514:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="tvp-info" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp-info.png",TVP Info HD
-http://81.166.129.185:8001/1:0:19:1139:2AF8:13E:820000:0:0:0:
+http://91.228.35.249:8001/1:0:19:1139:2AF8:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="tvp-kultura" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp-kultura.png",TVP Kultura HD
-http://81.166.129.185:8001/1:0:1:3D59:2C88:13E:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:3D59:2C88:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="tvp-polonia" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp-polonia.png",TVP Polonia HD
-http://81.166.129.185:8001/1:0:1:4239:2F44:13E:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:4239:2F44:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="tvp-rozrywka" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp-rozrywka.png",TVP Rozrywka
-http://81.166.129.185:8001/1:0:1:4288:2BC0:13E:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:4288:2BC0:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="tvp-seriale" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp-seriale.png",TVP Seriale HD
-http://81.166.129.185:8001/1:0:1:3d5c:2c88:13e:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:3d5c:2c88:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="tv-puls" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tv-puls.png",TV Puls HD
-http://81.166.129.185:8001/1:0:1:3d66:2c88:13e:820000:0:0:0:
+http://91.228.35.249:8001/1:0:1:3d66:2c88:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="tvs-pl" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvs-pl.png",TVS
-http://81.166.129.185:8001/1:0:19:1135:2AF8:13E:820000:0:0:0:
+http://91.228.35.249:8001/1:0:19:1135:2AF8:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png" group-title="Турция",24 TV HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/2319/index.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/360-tr.png/revision/latest?cb=20220108145523" group-title="Турция",360 TV HD
@@ -2306,7 +2300,7 @@ http://ru2.tvtm.one/ch1387/mono.m3u8?token=ruslan35.v2_aLxT49KT5TNVbnfe0Q_YIqFQX
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Halk_tv_2018.png/revision/latest?cb=20200604085030" group-title="Турция",Halk TV HD
 http://ru2.tvtm.one/ch2483/mono.m3u8?token=ruslan35.v2_Zho6f3l_ajGOGgWGrh1JmuSuy6zknMmzgrA470t_X7Nrx4yb6nnxRi65lcgGGBRza6kvR4dwkB2p5w
 #EXTINF:-1 tvg-id="kanal-d-hd" tvg-logo="https://epg.iptvx.one/picons/kanal-d-hd.png" group-title="Турция",Kanal D HD
-http://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+http://ru2.tvtm.one/ch1389/mono.m3u8?token=ruslan35.v2_SoWz9grJWCb3JAKKL9r7N6zjyuX2OeFKuTcT-cideGHIimuVDQUmBd9zl3wLPMZ7a1z8FlRloZcyYA
 #EXTINF:-1 tvg-id="kanal-7-hd-tr" tvg-logo="https://epg.iptvx.one/picons/kanal-7-hd-tr.png" group-title="Турция",Kanal 7 HD
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 tvg-id="minikago-tr" tvg-logo="https://epg.iptvx.one/picons/minikago-tr.png" group-title="Турция",Minika GO HD
@@ -2316,13 +2310,13 @@ http://ru2.tvtm.one/ch1350/mono.m3u8?token=ruslan35.v2_y30YIdFaVra49Iyb17cT6FUZ3
 #EXTINF:-1 tvg-id="ntv-hd-tr" tvg-logo="https://epg.iptvx.one/picons/ntv-hd-tr.png" group-title="Турция",NTV HD
 http://dogus.daioncdn.net/ntv/ntv_1080p.m3u8
 #EXTINF:-1 tvg-id="show-hd-tr" tvg-logo="https://epg.iptvx.one/picons/show-hd-tr.png" group-title="Турция",Show TV HD
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
+http://ru2.tvtm.one/ch1399/mono.m3u8?token=ruslan35.v2_MuaRuzHnA9lzk2frdWEC1qz_xxfvFHc0Ma2duRN2ti-afagy9DukWHK4MJxJfVSELw4Apd6sQy2XHg
 #EXTINF:-1 tvg-id="star-tv-hd-tr" tvg-logo="https://epg.iptvx.one/picons/star-tv-hd-tr.png" group-title="Турция",Star TV HD
 http://ru2.tvtm.one/ch1409/mono.m3u8?token=ruslan35.v2_VJ7tcCtiKAVFC8I052SxMZpg0jybShpsDaxJRVo4XJitj70-fAulgvN5agThEzaMsNr3u6VrXp8Aqg
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png" group-title="Турция",Sözcü TV
 http://ru2.tvtm.one/ch2485/mono.m3u8?token=ruslan35.v2_MjwqW6HXO7d0_ro7MRmHWKKo6tTe9UYnMog-sBa6Y2WbiP1cyDPesf2w7pSeBVG-0xImMbajwHrEKw
 #EXTINF:-1 tvg-id="teve2hd" tvg-logo="https://epg.iptvx.one/picons/teve2hd.png" group-title="Турция",Teve 2 HD
-http://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+http://ru2.tvtm.one/ch1410/mono.m3u8?token=ruslan35.v2_jRNFPp3j4lXe46rNZqyqttXlU2fGyFbax-hIGtXt9m6S0C6Gy87zTkge-GvCnVQIXX12FlqfiSixuA
 #EXTINF:-1 tvg-id="tlc-tr" tvg-logo="https://epg.iptvx.one/picons/tlc-tr.png" group-title="Турция",TLC HD
 http://ru2.tvtm.one/ch1411/mono.m3u8?token=ruslan35.v2_dt_j9kW_BXjRwLIF3FKPOVgzdjLY_juP0p_M0NIxA__8St2xt62x93CW-va3XREfgvrhrHrgWK1i3g
 #EXTINF:-1 tvg-id="trt-1-hd" tvg-logo="https://epg.iptvx.one/picons/trt-1-hd.png" group-title="Турция",TRT 1 HD
