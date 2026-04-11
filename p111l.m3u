@@ -1766,8 +1766,10 @@ http://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 http://live-saha.cdnvideo.ru/saha/tooky/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=7fccbb7bbabf781d2b97487b967e3663
 #EXTINF:-1 tvg-id="muzyka-pervogo" group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/muzyka-pervogo.png",#Музыка Первого HD
 http://cdn.balelbrus.com/bigteisti2/muzykapervogo/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
-#EXTINF:-1 tvg-id="spa" group-title="Христианские" tvg-logo="https://epg.iptvx.one/picons/spas.png",Спас
+#EXTINF:-1 tvg-id="spas" group-title="Христианские" tvg-logo="https://epg.iptvx.one/picons/spas.png",Спас
 https://bonusspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="soyuz" group-title="Христианские" tvg-logo="https://epg.iptvx.one/picons/soyuz.png",Союз HD
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="1hd" group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/1hd-music.png",1HD Music Television
 http://92.63.106.41/24hp/stream.php?id=110
 #EXTINF:-1 tvg-id="aiva" group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/aiva.png",AIVA HD
@@ -2211,16 +2213,26 @@ https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/chunklist_b5160000.m3u8
 https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Румыния" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/TVR_Tg_Mures_OSB_2019.svg/revision/latest?cb=20210828133124",TVR Tg. Mureș (Тыргу-Муреш)
 https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/chunklist_b5160000.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="Польша" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Antena_2022.png/revision/latest?cb=20250904000909",Antena
-http://91.228.35.249:8001/1:0:19:114D:2AF8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="no_epg" group-title="Польша" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Antena_2022.png/revision/latest?cb=20250904000909",Antena HD
+http://91.246.72.88:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-id="bbc-brit-pl" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/bbc-brit-pl.png",BBC Brit HD
+http://91.228.35.249:8001/1:0:1:7d6:22c4:13e:820000:0:0:0
 #EXTINF:-1 tvg-id="bbc-first-pl" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/bbc-first-pl.png",BBC First HD
 http://91.228.35.249:8001/1:0:19:1133:2AF8:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="bbc-ls-pl" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/bbc-ls-pl.png",BBC Lifestyle HD
+http://91.228.35.249:8001/1:0:19:7DB:22C4:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="canal-pl-dokument" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/canal-pl-dokument.png",Canal+ Dokument HD
 http://91.228.35.249:8001/1:0:1:3d58:2c88:13e:820000:0:0:0:
+#EXTINF:-1 tvg-id="bbc-cbeeb-pl" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/bbc-cbeeb-pl.png",BBC CBeebies
+http://91.228.35.249:8001/1:0:1:7d9:22c4:13e:820000:0:0:0
 #EXTINF:-1 tvg-id="disney-xd" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/disney-xd.png",Disney XD
 http://91.228.35.249:8001/1:0:1:1cb5:1ce8:71:820000:0:0:0
-#EXTINF:-1 tvg-id="polonia1" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/polonia1.png",Polonia 1
-http://78.130.250.2:8023/play/a05t/index.m3u8
+#EXTINF:-1 tvg-id="disney-jr" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/disney-jr.png",Disney Junior
+http://91.228.35.249:8001/1:0:1:2938:1edc:71:820000:0:0:0
+#EXTINF:-1 tvg-id="hbo-hd" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/hbo-hd.png",HBO HD
+http://91.228.35.249:8001/1:0:1:290e:1edc:71:820000:0:0:0
+#EXTINF:-1 tvg-id="polonia1" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/polonia1.png",Polonia 1 HD
+http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=227456&extension=ts&play_token=G4FoQCJpD8
 #EXTINF:-1 tvg-id="polsat" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/polsat.png",Polsat HD
 http://91.228.35.249:8001/1:0:1:3391:3390:71:820000:0:0:0:
 #EXTINF:-1 tvg-id="polsat2" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/polsat2.png",Polsat 2 HD
@@ -2261,8 +2273,8 @@ http://91.228.35.249:8001/1:0:1:c22:1e78:71:820000:0:0:0:
 http://91.228.35.249:8001/1:0:1:13F7:5DC:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="tvp-hd" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp-hd.png",TVP HD
 http://91.228.35.249:8001/1:0:1:1138:2AF8:13E:820000:0:0:0
-#EXTINF:-1 tvg-id="tvp-abc" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp-abc.png",TVP ABC
-http://91.228.35.249:8001/1:0:1:3D5F:2C88:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="tvp-abc" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp-abc.png",TVP ABC HD
+http://91.246.72.88:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="tvp-dokument" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp-dokument.png",TVP Dokument HD
 http://91.228.35.249:8001/1:0:1:3abd:514:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="tvp-info" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp-info.png",TVP Info HD
@@ -2271,8 +2283,8 @@ http://91.228.35.249:8001/1:0:19:1139:2AF8:13E:820000:0:0:0:
 http://91.228.35.249:8001/1:0:1:3D59:2C88:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="tvp-polonia" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp-polonia.png",TVP Polonia HD
 http://91.228.35.249:8001/1:0:1:4239:2F44:13E:820000:0:0:0:
-#EXTINF:-1 tvg-id="tvp-rozrywka" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp-rozrywka.png",TVP Rozrywka
-http://91.228.35.249:8001/1:0:1:4288:2BC0:13E:820000:0:0:0:
+#EXTINF:-1 tvg-id="tvp-rozrywka" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp-rozrywka.png",TVP Rozrywka HD
+http://91.246.72.88:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="tvp-seriale" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tvp-seriale.png",TVP Seriale HD
 http://91.228.35.249:8001/1:0:1:3d5c:2c88:13e:820000:0:0:0:
 #EXTINF:-1 tvg-id="tv-puls" group-title="Польша" tvg-logo="https://epg.iptvx.one/picons/tv-puls.png",TV Puls HD
