@@ -1108,11 +1108,10 @@ http://rt-vlg-orb-htlive.cdn.ngenix.net/hls/CH_R04_STV/variant.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://rt-nw-arkh-htlive.cdn.ngenix.net/hls/CH_R01_STV24/variant.m3u8
 #EXTINF:-1 tvg-id="infokanal-sevastopol" group-title="Региональные" tvg-logo="https://iptvx.one/picons/infokanal-sevastopol.png",СТВ HD (Севастополь)
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://a3285276359-s25617.cdn.ngenix.net/hls/CH_STV24HD/video_track_105_c3100825~index.m3u8/playlist.m3u8
+https://vkvsd183.okcdn.ru/cmaf/3564819253871/sig/61uqgWa6p04/expires/1776074699116/srcIp/178.173.126.139/urls/185.226.55.84/clientType/13/srcAg/CHROME/mid/4909423274863/get/CO_WuIPxjgEQ6AcYBjIICgYIgA8QuAg6BAjE2AJaBggDEAIoF2ICCCBtmpuK1oYPfA/track.m3u8
 #EXTINF:-1 tvg-id="sevastopol-24" group-title="Региональные" tvg-logo"https://epg.iptvx.one/picons/sevastopol-24.png",СТВ 24 HD (Севастополь)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-https://a787201475-s91412.cdn.ngenix.net/hls/CH_STVHD/video_track_105_ae4ad507~index.m3u8/playlist.m3u8
+https://vkvsd22.okcdn.ru/cmaf/8081718708981/sig/MPnjEWqE1yM/expires/1776074726385/srcIp/178.173.126.139/urls/185.226.55.83/clientType/13/srcAg/CHROME/mid/9776658394101/get/CPXXgPLEnAIQ6AcYBjIICgYIgA8QuAg6BAjE2AJaBggDEAIoF2ICCCAMbNAw2e-fYA/track.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Региональные" tvg-logo="https://iptvx.one/assets/files/2025-03-24/1742830896-538812-strezhevskoetv200.png",СТВ (Стрежевой)
 http://live.stv-tv.ru/playlist2.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Региональные" tvg-logo="https://dl.dropbox.com/scl/fi/i1ln92ffh0bjxd1nwfd6p/2026-03-26-115719.png?rlkey=b8w15uezsab43da0t6zp5hir0&st=1iqkagms&dl=0",СТС-Минусинск
