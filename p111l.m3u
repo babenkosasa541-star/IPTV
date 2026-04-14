@@ -48,7 +48,7 @@ https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-38478e21
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/19222/index.m3u8
 #EXTINF:-1 tvg-id="tvcentr" group-title="Общие" tvg-logo="https://epg.iptvx.one/picons/tvcentr.png",ТВЦ HD (orig)
 http://s06.wsbof.com:8090/s/9b6f8047/tvc-hd/video.m3u8
-#EXTINF:-1 tvg-id="tvci" group-title="Общая" tvg-logo="https://iptvx.one/assets/files/2025-03-27/1743089006-223686-tvci-s-2013-goda-s-tenyu.png",ТВЦ Intenational HD (orig)
+#EXTINF:-1 tvg-id="tvci" group-title="Общая" tvg-logo="https://iptvx.one/assets/files/2025-03-27/1743089006-223686-tvci-s-2013-goda-s-tenyu.png",ТВЦ Intenational HD
 http://217.154.10.99:2020/channel/4fbcc527/index.m3u8?q=ac8328a8c05870646c45caa253710a85
 #EXTINF:-1 tvg-id="pervy-mn1" group-title="Плюсовые" tvg-logo="https://epg.iptvx.one/picons/pervy-mn1.png",Первый канал (-1)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
@@ -886,7 +886,7 @@ http://46.163.155.237:65081/udp/230.200.201.19:1234
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R02_OTT_OTV_URAL_EKT/variant.m3u8
 #EXTINF:-1 tvg-id="otv-odincovo" group-title="Региональные" tvg-logo="https://iptvx.one/picons/otv-odincovo.png",ОТВ HD (Одинцово)
-https://e10-m9.facecast.net/public/183910/source.m3u8?live=10
+https://e10-ll.facecast.net/public/183910/source.m3u8?live=10
 #EXTINF:-1 tvg-id="no_epg" group-title="Региональные" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/87/%D0%9E%D1%82%D0%B2_%D0%A1%D0%B5%D1%80%D0%BF%D1%83%D1%85%D0%BE%D0%B2.png/revision/latest?cb=20220801041810&format=original&path-prefix=ru",ОТВ HD (Серпухов)
 http://live-otvmedia.cdnvideo.ru/otvmedia/otvmedia/playlist.m3u8
 #EXTINF:-1 tvg-id="otv-chelyabinsk" group-title="Региональные" tvg-logo="https://iptvx.one/picons/otv-chelyabinsk.png",ОТВ HD (Челябинск)
@@ -1101,9 +1101,7 @@ http://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Региональные" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/5/5f/%D0%A1%D1%80%D0%B5%D0%B4%D0%B0_%28%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%29_%28%D0%9A%D0%B0%D1%81%D0%BF%D0%B8%D0%B9%D1%81%D0%BA%2C_%D0%94%D0%B0%D0%B3%D0%B5%D1%81%D1%82%D0%B0%D0%BD%29_%28%D0%AD%D1%84%D0%B8%D1%80%D0%BD%D0%BD%D1%8B%D0%B9%29.png/revision/latest?cb=20230728124433&path-prefix=ru",Среда HD (Каспийск)
 http://217.154.10.99:2020/channel/598328f0/index.m3u8?q=ac8328a8c05870646c45caa253710a85
 #EXTINF:-1 tvg-id="no_epg" group-title="Региональные" tvg-logo="https://dl.dropbox.com/scl/fi/g8ky626zn4gkrjakodv7h/2026-03-26-110553.png?rlkey=avicgyb2cv6j7ociuttu3l6ol&dl=0",СТ HD (Красная Горбатка)
-#EXTVLCOPT:http-referrer=https://rtsp.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://spb.rtsp.me/Ln0Rr5npUTJ342LGzWDhqw/1776155661/hls/A338F9HQ.m3u8?ip=178.173.126.139
+https://spb.rtsp.me/PXlojXzVNZMJ4p13nWdjew/1776162732/hls/A338F9HQ.m3u8?ip=178.173.126.139
 #EXTVLCOPT:http-referrer=https://rtsp.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://spb.rtsp.me/3WxyrMxsS2lkXlL_1qEu0Q/1776148850/hls/A338F9HQ.m3u8?ip=178.173.126.139
@@ -1610,7 +1608,7 @@ http://92.63.106.41/24hp/stream.php?id=87
 #EXTINF:-1 tvg-id="rodnoe-kino" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/rodnoe-kino.png",Родное кино
 http://92.63.106.41/24hp/stream.php?id=12
 #EXTINF:-1 tvg-id="no_epg" group-title="Кино и сериалы" tvg-logo="https://dl.dropbox.com/scl/fi/cl1do3ihrj3000dec4hnn/2026-04-13-163406.png?rlkey=v7oy5zmo2arjdnxh7luggsxnz&dl=0",Роман HD
-https://strm.yandex.ru/live/2/vh-cloud-video-live-converted/vpls55ehto35uautdltv/ysign1=3647325f08e3cbe1cceb08cac8efc46d60278bd36e1b64350d3a95e8f78d740e,abcID=1358,bstrat=strm,chID=vplc5wfxybuhhwwnoi2h,dvr=300,episode=vplexyhp6nkoxuqllcbq,from=ott-kp,line=vpllwnxj3dxmwtrakmxz,pfx,sfx,start=1775827200,ts=69df8fd4/manifest.mpd
+https://strm.yandex.ru/live/2/vh-cloud-video-live-converted/vpls55ehto35uautdltv/ysign1=81fc21b6da9ba31a74df6bd2cd2267eedcb175a6b15de46ade8642ac84129530,abcID=1358,bstrat=strm,chID=vplc5wfxybuhhwwnoi2h,dvr=300,episode=vplexyhp6nkoxuqllcbq,from=ott-kp,line=vpllwnxj3dxmwtrakmxz,pfx,sfx,start=1776000000,ts=69e0abf1/manifest.mpd?max_res_height=1080&min_res_height=300&packager=1&vsid=0ca9925b43c662626e6764ce792c6a6f84bc927e6deexFLMx2110x1776158961&source_index=1&vpuid=frqaq90pt7&mburl=1&subs=1&deranged=1&t=1776158962608
 #EXTINF:-1 tvg-id="russky-bestseller" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/russky-bestseller.png",Русский бестселлер
 http://92.63.106.41/24hp/stream.php?id=281
 #EXTINF:-1 tvg-id="russky-illuzion" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/russky-illuzion.png",Русский иллюзион HD
@@ -1628,7 +1626,7 @@ https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1 tvg-id="chestny-detektiv" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/chestny-detektiv.png",Смотрим Честный детектив HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Кино и сериалы" tvg-logo="https://dl.dropbox.com/scl/fi/xvjsajp9gftoxn4yzgy8k/2026-04-13-162933.png?rlkey=1gf3b3wv0kfm2b5c407gdhucb&dl=0",Сталь HD
-https://strm.yandex.ru/live/1/vh-cloud-video-live-converted/vplsjid5pfi4gqpebwby/ysign1=67c672c29f20139389f7dbcf2df515e7d97f7bf87d95713640963bd88cf976c4,abcID=1358,bstrat=strm,chID=vplc5wfxybuhhwwnoi2h,dvr=300,episode=vpled5jj23ciy6uw4mmo,from=ott-kp,line=vpllghbo2wm4waj6ary7,pfx,sfx,start=1776000025,ts=69df9260/manifest.mpd
+https://strm.yandex.ru/live/1/vh-cloud-video-live-converted/vplsjid5pfi4gqpebwby/ysign1=d9ec3c4ca828769da8f3d5c3c63652ac4fc0a0f417514c377b02d85e2b334254,abcID=1358,bstrat=strm,chID=vplc5wfxybuhhwwnoi2h,dvr=300,episode=vpled5jj23ciy6uw4mmo,from=ott-kp,line=vpllghbo2wm4waj6ary7,pfx,sfx,start=1776000025,ts=69e0ac44/manifest.mpd?max_res_height=1080&min_res_height=300&packager=1&vsid=3aa375e8d6f083a0ae6bb05dc16d975756e97f4e3392xFLMx2110x1776159044&source_index=1&vpuid=frqaq90pt7&mburl=1&subs=1&deranged=1&t=1776159045142
 #EXTINF:-1 tvg-id="no_epg" group-title="Кино и сериалы" tvg-logo="https://dl.dropbox.com/scl/fi/caqk9zlzv2qu1a6gv5i8u/2026-04-07-111747.png?rlkey=4jo2oj17awwdc35lkr6cgwa38&dl=0",ТехЛет ТВ
 http://92.63.106.41/ptv/voka/ch.php?id=a7d783af-49ae-4b82-be66-9758bbe677b6
 #EXTINF:-1 tvg-id="belviasat-plustv" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/belviasat-plustv.png",+TV
