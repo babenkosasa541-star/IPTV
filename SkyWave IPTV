@@ -1311,8 +1311,6 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/trac
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Информационные" tvg-logo="https://w7.pngwing.com/pngs/244/521/png-transparent-africa-24-television-channel-logo-africa-television-company-text.png",Africa 24 HD
 https://edge11.vedge.infomaniak.com/livecast/ik:africa24/chunklist_w1270419197.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="Информационные" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/c0/Africanews_%282016%2C_%D0%B6%D1%91%D0%BB%D1%82%D1%8B%D0%B9_%D1%84%D0%BE%D0%BD%29.jpg/revision/latest?cb=20160711052222&path-prefix=ru",AfricaNews HD
-https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/africanews-en-avc1_3300000=8-mp4a_143200_eng=2.m3u8
 #EXTINF:-1 tvg-id="al-jazeera-int" group-title="Информационные" tvg-logo="https://epg.iptvx.one//picons/360-al-jazeera-int.png",Al Jazeera English HD
 https://live-hls-web-aje-gcp.thehlive.com/AJE/01.m3u8
 #EXTINF:-1 tvg-id="bbc" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/bbc.png",BBC News Europe HD
@@ -1321,8 +1319,6 @@ http://ru2.tvtm.one/ch499/mono.m3u8?token=ruslan35.v2_yxGhmXduXEPzDIpVEEKeqOYn2u
 http://ru2.tvtm.one/ch1917/mono.m3u8?token=ruslan35.v2_wJIM33agGStSSfw32BqpO8WtdCgwKcA_he23F4yPYlmDjWZ2OW6JjcxR8cS0gT-CQAatBCykACtDig
 #EXTINF:-1 tvg-id="cgtn" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/cgtn.png",CGTN Europe HD
 https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
-#EXTINF:-1 tvg-id="no_epg" group-title="Информационные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/330px-CNA_new_logo.svg.png",CNA TV HD
-http://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:-1 tvg-id="cnbc-europe" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/cnbc-europe.png",CNBC Europe HD
 http://91.228.35.249:8001/1:0:1:1326:33F4:13E:820000:0:0:0:
 #EXTINF:-1 tvg-id="cnn" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/cnn.png",CNN International HD
@@ -1363,8 +1359,6 @@ http://91.228.35.249:8001/1:0:16:69:2fa8:13e:820000:0:0:0:
 http://92.63.106.41/24hp/stream.php?id=8858
 #EXTINF:-1 tvg-id="no_epg" group-title="Информационные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/500px-TRT_World.svg.png",TRT World HD
 http://ru2.tvtm.one/ch1418/mono.m3u8?token=ruslan35.v2_1fbDllU-Nk_UeKoDS_N8abZCfUj_FOktbU0e63SBrWZq-QkIGLPZwa9wQUWOMl3T0NbmuCRi9Br8tw
-#EXTINF:-1 tvg-id="no_epg" group-title="Информационные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/330px-WION_news_Logo.svg.png",WION HD
-https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-id="vmeste-rf" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/vmeste-rf.png",Вместе РФ HD
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Информационные" tvg-logo="https://dl.dropbox.com/scl/fi/ly3x7mxz82mtbeoqe667j/2025-04-05-002253.png?rlkey=nyudoqdmb849zz442xemmue7s&dl=0",Гордон Live
@@ -1702,6 +1696,8 @@ http://s.only4.tv/8381/mono.m3u8?token=Uqxoga1IGq
 http://46.53.208.4/live/8112-req_offset_28000000-req_window_0-5k_v5.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="Спортивные" tvg-logo="https://dl.dropbox.com/scl/fi/13slujrltbjsm9xakukko/2025-04-22-185338.png?rlkey=1u1ozsn9tjk63qeh9vvdqrfgq&dl=0",Футбол HD (Таджикистан)
 https://live.teleradiocom.tj/8/3m.m3u8
+#EXTINF:-1 tvg-id="ani" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/ani.png",Ani
+http://92.63.106.41/24hp/stream.php?id=393
 #EXTINF:-1 tvg-id="baby-time" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/baby-time.png",Baby Time
 http://92.63.106.41/24hp/stream.php?id=7012
 #EXTINF:-1 tvg-id="cartoon-network" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/cartoon-network.png",Cartoon Network HD
@@ -1728,6 +1724,8 @@ http://tv.filmax-tv.ru/p9/642dbc5d5644d6016456fde90609a575/video.m3u8?token=yr8s
 http://94.250.255.172/ptv/kztelecom/ch.php?id=652670fd9fcef82eb3d72eea
 #EXTINF:-1 tvg-id="sumiko" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/sumiko.png",Sumiko HD
 http://92.63.106.41/24hp/stream.php?id=7465
+#EXTINF:-1 tvg-id="tiji" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/tiji.png",TiJi
+http://92.63.106.41/24hp/stream.php?id=218
 #EXTINF:-1 tvg-id="umka" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/umka.png",Umka HD
 http://31.130.203.6:9844/
 #EXTINF:-1 tvg-id="animetv" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/animetv.png",Аниме ТВ HD
