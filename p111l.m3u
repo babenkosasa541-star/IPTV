@@ -1600,6 +1600,24 @@ http://cdn.balelbrus.com/bigteisti3/rbchd/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ
 http://cdn.balelbrus.com/bigteisti6/novorossiya_tv/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="gags-network" catchup="flussonic" catchup-days="3" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/gags-network.png",Gagsnetwork HD
 http://cdn.balelbrus.com/bigteisti1/GAGSNETWORK/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="minimax-oldschool" catchup="flussonic" catchup-days="3"  group-title="Разлекательные" tvg-logo="https://epg.iptvx.one/picons/minimax-oldschool.png",MM OldSchool HD
+http://cdn.balelbrus.com/bigteisti13/minimax_oldschool/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="minimax-sitkom" catchup="flussonic" catchup-days="3"  group-title="Разлекательные" tvg-logo="https://epg.iptvx.one/picons/minimax-sitkom.png",MM Ситком HD
+http://cdn.balelbrus.com/bigteisti13/minimax_sitcom/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="tvplay-6kadrov" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tvplay-6kadrov.png" catchup-type="flussonic" catchup-days="3",TVPlay 6 кадров HD
+http://cdn.balelbrus.com/bigteisti10/08946909/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="tvplay-gamezone" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tvplay-gamezone.png" catchup-type="flussonic" catchup-days="3",TVPlay GameZone HD
+http://cdn.balelbrus.com/bigteisti10/08946935/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="tvplay-gorodok" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tvplay-gorodok.png" catchup-type="flussonic" catchup-days="3",TVPlay Городок HD
+http://cdn.balelbrus.com/bigteisti10/08946911/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="tvplay-kaketo" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tvplay-kaketo.png" catchup-type="flussonic" catchup-days="1",TVPlay Как это Было HD
+http://s.only4.tv/11180/video.m3u8?token=QUqxoga1IGq
+#EXTINF:-1 tvg-id="tvplay-sketchshow" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tvplay-sketchshow.png" catchup-type="flussonic" catchup-days="3",TVPlay Скетч-Шоу HD
+http://cdn.balelbrus.com/bigteisti10/08946912/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="tvplay-fitil" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tvplay-fitil.png" catchup-type="flussonic" catchup-days="3",TVPlay Фитиль HD
+http://s.only4.tv/11179/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 tvg-id="tvplay-yumor" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tvplay-yumor.png catchup-type="flussonic" catchup-days="1",TVPlay Юмор HD
+http://cdn.balelbrus.com/bigteisti10/08946903/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="domashny-int" catchup="flussonic" catchup-days="3" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/domashny-int.png",Домашний International
 http://live.uspeh-bil.ru/8124/video.m3u8?token=UBwVqZcPL8UPmoYU
 #EXTINF:-1 tvg-id="kaleydoskop-tv" catchup="flussonic" catchup-days="3" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/kaleydoskop.png",Калейдоскоп ТВ
@@ -3276,7 +3294,7 @@ http://cdn.balelbrus.com/bigteisti10/08946937/index.m3u8?token=eG1lbnRzMnx8V0RnN
 #EXTINF:-1 tvg-id="tvplay-mickeymouse" catchup="flussonic" catchup-days="3" group-title="Детские" tvg-logo="https://dl.dropbox.com/scl/fi/zjo28463zrpj5m1w434om/2025-11-29-211918.png?rlkey=16cy7lhq6jrgnbhwx6hz6ency&dl=0",TVPlay Mickey Mouse HD
 http://s.only4.tv/11049/index.m3u8?token=QXpsvpikPn
 #EXTINF:-1 tvg-id="tvplay-animehd" catchup="flussonic" catchup-days="3" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/tvplay-animehd.png",TVPlay Аниме HD
-http://cdn.balelbrus.com/bigteisti10/08946930/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
+http://cdn.balelbrus.com/bigteisti10/08946930/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="tvplay-detskoekino" catchup="flussonic" catchup-days="3" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/tvplay-detskoekino.png",TVPlay Детское Кино HD
 http://cdn.balelbrus.com/bigteisti10/08946999/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="tvplay-eralash" catchup="flussonic" catchup-days="3" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/tvplay-eralash.png",TVPlay Ералаш HD
@@ -3284,7 +3302,7 @@ http://cdn.balelbrus.com/bigteisti10/08946947/index.m3u8?token=eG1lbnRzMnx8V0RnN
 #EXTINF:-1 tvg-id="tvplay-sovmulthd" catchup="flussonic" catchup-days="3" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/tvplay-sovmulthd.png",TVPlay Советские Мультфильмы HD
 http://cdn.balelbrus.com/bigteisti10/08946929/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="tvplay-ladybag" catchup="flussonic" catchup-days="3" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/tvplay-ladybag.png",TVPlay Леди Баг и Супер Кот HD
-http://cdn.balelbrus.com/bigteisti10/08946940/index.m3u8?token=eG1lbnRzMnx8ZVhWeWVYZzRPVEE0TVRNek16QTJOWGc9
+http://cdn.balelbrus.com/bigteisti10/08946940/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="veles-anime" catchup="flussonic" catchup-days="3" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/veles-anime.png",VeleS Kids HD
 http://cdn.balelbrus.com/bigteisti1/VELES_KIDS/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="veles-kids" catchup="flussonic" catchup-days="3"  group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/veles-kids.png",VeleS Аниме HD
