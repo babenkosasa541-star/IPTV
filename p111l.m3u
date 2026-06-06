@@ -167,6 +167,8 @@ http://cdn.balelbrus.com/bigteisti8/08946905/index.m3u8?token=eG1lbnRzMnx8V0RnNU
 http://s.only4.tv/10685/video.m3u8?token=hz5AwTP2Kp
 #EXTINF:-1 tvg-id="eleven-sports-1" group-title="4K" catchup="flussonic" catchup-days="3" tvg-logo="https://dl.dropbox.com/scl/fi/vif3viamgjtwhqlfema5s/2025-04-22-171515.png?rlkey=z4s6nhvaalk3xz6xab30f3906&dl=0",Eleven Sports 1 4K
 http://cdn.balelbrus.com/bigteisti8/SKY_SPORT_BUNDESLIGA_UHD/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="eurosport-4k" group-title="4K" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/eurosport-4k.png",Eurosport 4K
+http://tchaikovsky.af-stream.com:8080/s/whxqyupu/eurosport-4k/video.m3u8
 #EXTINF:-1 tvg-id="home-4k" group-title="4K" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/home4k.png",Home 4K
 http://cdn.balelbrus.com/bigteisti1/08936907/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="KLIUHD4K" group-title="4K" catchup="flussonic" catchup-days="1" tvg-logo="https://dl.dropbox.com/scl/fi/3i4semq4poipxlbgg53my/KLI_UHD4K.png?rlkey=fhlf4z65mc1zvascr60v7kshj&dl=0",KLI UHD 4K
@@ -233,6 +235,8 @@ http://cdn.balelbrus.com/bigteisti9/QUADRO_4K/index.m3u8?token=eG1lbnRzMnx8V0RnN
 http://cdn.balelbrus.com/bigteisti20/09946917/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="travel-xp-4k" group-title="4K" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/travel-xp-4k.png",TravelXP 4K
 http://s.only4.tv/8142/video.m3u8?token=hz5AwTP2Kp
+#EXTINF:-1 tvg-id="ultra-hd-cinema" group-title="4K" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/ultra-hd-cinema.png",Ultra HD Cinema
+http://cdn.balelbrus.com/bigteisti9/ultrahd_cinema_4k/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="velilla-cinema4k" group-title="4K" catchup="flussonic" catchup-days="1" tvg-logo="https://epg.iptvx.one/picons/velilla-cinema4k.png",Velilla TV Cinema 4K
 http://s.only4.tv/9868/video.m3u8?token=hz5AwTP2Kp
 #EXTINF:-1 tvg-id="velilla-xfiles4k" group-title="4K" catchup="flussonic" catchup-days="1" tvg-logo="https://dl.dropbox.com/scl/fi/zdoe311jqu4sz4zzmeszt/2026-06-01-153112.png?rlkey=mustn1ihfwf6n606y3qb3r4x6&dl=0",Velilla TV The X-Files 4K
