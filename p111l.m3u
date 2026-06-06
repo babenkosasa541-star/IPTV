@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG.xml.gz"
-#EXTINF:-1 tvg-id="yes-sport-5-4k" group-title="4K" catchup="flussonic" catchup-days="0" tvg-logo="https://epg.iptvx.one/picons/yes-sport-5-4k.png",5Sport 4K
-http://sub.cbilant.com/iptv/6WL2NQDP3ATAYA/16019/index.m3u8
+#EXTINF:-1 tvg-id="yes-sport-5-4k" group-title="4K" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/yes-sport-5-4k.png",5Sport 4K
+http://tchaikovsky.af-stream.com:8080/s/whxqyupu/sport5-il-4k/video.m3u8
 #EXTINF:-1 tvg-id="bcu-kids-4k" group-title="4K" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/bcu-kids-4k.png",BCU Kids 4K
 http://live.uspeh-bil.ru/8976/video.m3u8?token=UBwVqZcPL8UPmoYU 
 #EXTINF:-1 tvg-id="bcu-kinozakaz-premiere-4k" group-title="4K" catchup="flussonic" catchup-days="0" tvg-logo="https://epg.iptvx.one/picons/bcu-kinozakaz-premiere-4k.png",BCU Kinozakaz Premiere 4K
@@ -1483,6 +1483,8 @@ http://217.154.10.99:2020/channel/455066f1/index.m3u8?q=ac8328a8c05870646c45caa2
 #EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="3" group-title="Региональные" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/64/%D0%A2%D1%83%D0%B2%D0%B0_24_%28%D1%81_2020%2C_%D1%8D%D1%84%D0%B8%D1%80%29.png/revision/latest/scale-to-width-down/1000?cb=20210512200343&path-prefix=ru",Тува 24 (Кызыл)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://s93498.cdn.ngenix.net/hls/CH_R01_TUVA24/variant.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="3" group-title="Региональные" tvg-logo="https://dl.dropbox.com/scl/fi/p76w57b6fta37vxlovjjr/2026-06-06-113843.png?rlkey=188w3j7875c7ruz4w3369a98x&dl=0",Тюмень 24 HD
+http://217.154.10.99:2020/channel/n3056654e/index.m3u8?q=ac8328a8c05870646c45caa253710a85
 #EXTINF:-1 tvg-id="tumenskoe-vremia" catchup="flussonic" catchup-days="3" group-title="Региональные" tvg-logo="https://iptvx.one/picons/tumenskoe-vremia.png",Тюменское время HD (Тюмень)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8
