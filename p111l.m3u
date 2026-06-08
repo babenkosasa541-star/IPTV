@@ -696,7 +696,7 @@ http://s91030.cdn.ngenix.net/hls/CH_R25_OTT_DV_VLD_25REGION/variant.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8
 #EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Региональные" tvg-logo="https://dl.dropbox.com/scl/fi/ejobn1btq4wz544ywl7z6/2025-10-28-211611.png?rlkey=7aom5g6pg75rj8z7a1cm87u6t&dl=0",360 Усть-Илимск
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/31909/index.m3u8
+http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/31909/index.m3u8
 #EXTINF:-1 tvg-id="https://iptvx.one/picons/4kanal-piatnica.png" catchup="flussonic" catchup-days="3" group-title="Региональные" tvg-logo="https://iptvx.one/picons/4kanal-piatnica.png",4 канал (Екатеринбург)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R04_OTT_4KANAL/variant.m3u8
@@ -826,7 +826,7 @@ https://tv.bezhintercomp.ru/hls/bntv/0_1/index.m3u8
 #EXTINF:-1 tvg-id="belgorod24" catchup="flussonic" catchup-days="0" group-title="Региональные" tvg-logo="https://iptvx.one/picons/belgorod24.png",Белгород 24
 https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 #EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Региональные" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/d/df/%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D0%B5%D1%86%D0%BA%D0%B0%D1%8F_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F.png/revision/latest?cb=20210313165239&format=original&path-prefix=ru",Белорецкая телекомпания HD (Белорецк)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL//15371/index.m3u8
+http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4//15371/index.m3u8
 #EXTINF:-1 tvg-id="bijskoetv" catchup="flussonic" catchup-days="3" group-title="Региональные" tvg-logo="https://iptvx.one/picons/bijskoetv.png",Бийское телевидение HD (Бийск)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://rt-sib-bul-htlive.cdn.ngenix.net/hls/CH_R01_BIYSKTV/variant.m3u8
@@ -1310,7 +1310,7 @@ http://rt-sth-astrh-htlive.cdn.ngenix.net/hls/CH_R03_PRO_ASTRAKHAN/variant.m3u8
 #EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Региональные" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/29/%D0%9F%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_%D0%9A%D0%BE%D0%B2%D1%80%D0%BE%D0%B2_-_%D1%8D%D1%84%D0%B8%D1%80.png/revision/latest?cb=20250518084542&format=original&path-prefix=ru",Продвижение-Ковров
 http://109.201.113.174:8082
 #EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="3" group-title="Региональные" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/0/02/%D0%9F%D1%80%D0%BE%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9B%D0%B8%D0%BF%D0%B5%D1%86%D0%BA_%28%D1%81_2020%29.png/revision/latest?cb=20211101124454&path-prefix=ru",Продвижение-Липецк
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/15478/index.m3u8
+http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/15478/index.m3u8
 #EXTINF:-1 tvg-id="Про жизнь" catchup="flussonic" catchup-days="3" group-title="Региональные" tvg-logo="https://iptvx.one/picons/pro-zhizn.png",Про жизнь HD (Прокопьевск)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://rt-sib-nvkz-htlive.cdn.ngenix.net/hls/CH_R01_PROJIZN/variant.m3u8
@@ -1637,7 +1637,7 @@ http://rt-sth-rd-htlive.cdn.ngenix.net/hls/CH_R02_SHAHTY/variant.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://rt-ct-vlad-htlive.cdn.ngenix.net/hls/CH_R01_6KANAL/variant.m3u8
 #EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Региональные" tvg-logo="https://i122.fastpic.org/big/2023/0711/8f/2d26e2a9e57d15dea860eb1fcb8f348f.png?md5=-UVZELXehWCXcQSMeKXQhg&expires=1759154400",Экоспаскоми (Сыктывкар)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/QVP3XYV8KEF4TL/17018/index.m3u8
+http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/17018/index.m3u8
 #EXTINF:-1 tvg-id="express" catchup="flussonic" catchup-days="3" group-title="Региональные" tvg-logo="https://iptvx.one/picons/express.png",Экспресс HD (Пенза)
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://rt-vlg-penza-htlive.cdn.ngenix.net/hls/CH_R01_EXPRESS/variant.m3u8
@@ -1684,6 +1684,8 @@ http://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ARKTIKA24_URAL_YNF/varia
 http://cdn.balelbrus.com/bigteisti19/08946920/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="360-news" catchup="flussonic" catchup-days="3" group-title="Информационные" tvg-logo="https://epg.iptvx.one//picons/360-news.png",360 Новости HD
 http://cdn.balelbrus.com/bigteisti6/360_novosti_HD/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="ostwest24" catchup="flussonic" catchup-days="3" group-title="Информационные" tvg-logo="https://epg.iptvx.one//picons/ostwest24.png",OstWest24 HD
+http://ott.watch/stream/M2OKG1JWDY/455.m3u8
 #EXTINF:-1 tvg-id="rt-news" catchup="flussonic" catchup-days="3" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/rt-news.png",RT HD
 http://cdn.balelbrus.com/bigteisti3/rho_beta9/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="rtvi" catchup="flussonic" catchup-days="3" group-title="Информационные" tvg-logo="https://epg.iptvx.one/picons/rtvi.png",RTVi HD
@@ -1722,6 +1724,26 @@ http://cdn.balelbrus.com/bigteisti10/08946935/index.m3u8?token=eG1lbnRzMnx8V0RnN
 http://cdn.balelbrus.com/bigteisti10/08946911/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="tvplay-kaketo" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tvplay-kaketo.png" catchup-type="flussonic" catchup-days="1",TVPlay Как это Было HD
 http://s.only4.tv/11180/video.m3u8?token=QUqxoga1IGq
+#EXTINF:-1 group-title="Развлекательные" tvg-id="000009" tvg-logo="http://1lot.tv/ch/10948.png" catchup-type="flussonic" catchup-days="1",Play-X Beast Games HD
+http://s.only4.tv/10948/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Развлекательные" tvg-id="000006" tvg-logo="http://1lot.tv/ch/10946.png" catchup-type="flussonic" catchup-days="1",Play-X 6 Кадров HD
+http://s.only4.tv/10946/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Развлекательные" tvg-id="000003" tvg-logo="http://1lot.tv/ch/10943.png" catchup-type="flussonic" catchup-days="1",Play-X География Уральских Пельменей HD
+http://s.only4.tv/10943/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Развлекательные" tvg-id="000005" tvg-logo="http://1lot.tv/ch/10945.png" catchup-type="flussonic" catchup-days="1",Play-X Импровизаторы HD
+http://s.only4.tv/10945/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Развлекательные" tvg-id="000016" tvg-logo="http://1lot.tv/ch/10953.png" catchup-type="flussonic" catchup-days="1",Play-X Женский Стендап HD
+http://s.only4.tv/10953/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Развлекательные" tvg-id="000047" tvg-logo="http://1lot.tv/ch/10955.png" catchup-type="flussonic" catchup-days="1",Play-X Игра (ТНТ) HD
+http://s.only4.tv/10955/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Развлекательные" tvg-id="000008" tvg-logo="http://1lot.tv/ch/10947.png" catchup-type="flussonic" catchup-days="1",Play-X Между Нами HD
+http://s.only4.tv/10947/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Развлекательные" tvg-id="000010" tvg-logo="http://1lot.tv/ch/10949.png" catchup-type="flussonic" catchup-days="1",Play-X Последний Герой HD
+http://s.only4.tv/10949/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Развлекательные" tvg-id="000011" tvg-logo="http://1lot.tv/ch/10950.png" catchup-type="flussonic" catchup-days="1",Play-X Русская Дорога HD
+http://s.only4.tv/10950/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Развлекательные" tvg-id="000012" tvg-logo="http://1lot.tv/ch/10951.png" catchup-type="flussonic" catchup-days="1",Play-X Уральские Пельмени HD
+http://s.only4.tv/10951/video.m3u8?token=Uqxoga1IGq
 #EXTINF:-1 tvg-id="tvplay-sketchshow" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tvplay-sketchshow.png" catchup-type="flussonic" catchup-days="3",TVPlay Скетч-Шоу HD
 http://cdn.balelbrus.com/bigteisti10/08946912/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="tvplay-fitil" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tvplay-fitil.png" catchup-type="flussonic" catchup-days="3",TVPlay Фитиль HD
@@ -1927,6 +1949,8 @@ http://rr3.tvdosug.net/~2013739f06d98dc215e36e30d378cb01e75/56632/hls/pl.m3u8
 http://rr3.tvdosug.net/~2013739f06d98dc215e36e30d378cb01e75/69286/hls/pl.m3u8
 #EXTINF:-1 tvg-id="cineman-uzhasy" group-title="Кинозалы" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/cineman-uzhasy.png",CineMan Ужасы HD
 http://rr3.tvdosug.net/~2013739f06d98dc215e36e30d378cb01e75/47298/hls/pl.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="insomnia-hd" tvg-logo="https://epg.iptvx.one/picons/insomnia-hd.png" catchup-type="flussonic" catchup-days="3",Insomnia HD
+http://pl.online24.pm/play/1760/03E0EB83E5A8B86/video.m3u8
 #EXTINF:-1 tvg-id="kernel-bumdom" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/kernel-bumdom.png",Kernel TV Бумажный дом HD
 http://live.uspeh-bil.ru/9052/video.m3u8?token=UBwVqZcPL8UPmoYU
 #EXTINF:-1 tvg-id="kernel-vremia" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/kernel-vremia.png",Kernel TV Время HD
@@ -2129,6 +2153,76 @@ http://am01.plink-pile.ch/21008/index.m3u8?token=fAVXawfx7xVe7b
 http://am01.plink-pile.ch/20967/index.m3u8?token=fAVXawfx7xVe7b
 #EXTINF:0 tvg-id="oasis-chechnya" tvg-logo="https://epg.iptvx.one/picons/oasis-chechnya.png" group-title="Кинозалы",Oasis Чечня и Афган HD
 http://am01.plink-pile.ch/21006/index.m3u8?token=fAVXawfx7xVe7b
+#EXTINF:-1 group-title="Кинозалы" tvg-id="paradise-hd" tvg-logo="https://epg.iptvx.one/picons/paradise-hd.png" catchup-type="flussonic" catchup-days="3",Paradise HD
+http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/11100/index.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="paradox-hd" tvg-logo="https://epg.iptvx.one/picons/paradox-hd.png" catchup-type="flussonic" catchup-days="3",Paradox HD
+http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/11098/index.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="premierehd1" tvg-logo="https://epg.iptvx.one/picons/premierehd1.png" catchup-type="flussonic" catchup-days="3",Premiere HD 1
+http://pl.online24.pm/play/7096/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="premierehd2" tvg-logo="https://epg.iptvx.one/picons/premierehd2.png" catchup-type="flussonic" catchup-days="3",Premiere HD 2
+http://pl.online24.pm/play/7097/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="premierehd3" tvg-logo="https://epg.iptvx.one/picons/premierehd3.png" catchup-type="flussonic" catchup-days="3",Premiere HD 3
+http://pl.online24.pm/play/7098/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="premierehd4" tvg-logo="https://epg.iptvx.one/picons/premierehd4.png" catchup-type="flussonic" catchup-days="3",Premiere HD 4
+http://pl.online24.pm/play/7099/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000013" tvg-logo="http://1lot.tv/ch/10952.png" catchup-type="flussonic" catchup-days="1",Play-X 90-E HD
+http://s.only4.tv/10952/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000014" tvg-logo="http://1lot.tv/ch/10956.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 1 HD
+http://s.only4.tv/10956/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000020" tvg-logo="http://1lot.tv/ch/10957.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 2 HD
+http://s.only4.tv/10957/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000021" tvg-logo="http://1lot.tv/ch/10958.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 3 HD
+http://s.only4.tv/10958/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000022" tvg-logo="http://1lot.tv/ch/10959.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 4 HD
+http://s.only4.tv/10959/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000023" tvg-logo="http://1lot.tv/ch/10960.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 5 HD
+http://s.only4.tv/10960/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000024" tvg-logo="http://1lot.tv/ch/10961.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 6 HD
+http://s.only4.tv/10961/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000025" tvg-logo="http://1lot.tv/ch/10962.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 7 HD
+http://s.only4.tv/10962/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000026" tvg-logo="http://1lot.tv/ch/10963.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 8 HD
+http://s.only4.tv/10963/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000027" tvg-logo="http://1lot.tv/ch/10964.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 9 HD
+http://s.only4.tv/10964/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000028" tvg-logo="http://1lot.tv/ch/10965.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 10 HD
+http://s.only4.tv/10965/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000029" tvg-logo="http://1lot.tv/ch/10966.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 11 HD
+http://s.only4.tv/10966/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000030" tvg-logo="http://1lot.tv/ch/10967.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 12 HD
+http://s.only4.tv/10967/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000031" tvg-logo="http://1lot.tv/ch/10968.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 13 HD
+http://s.only4.tv/10968/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000032" tvg-logo="http://1lot.tv/ch/10969.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 14 HD
+http://s.only4.tv/10969/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000033" tvg-logo="http://1lot.tv/ch/10970.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 15 HD
+http://s.only4.tv/10970/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000034" tvg-logo="http://1lot.tv/ch/10971.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 16 HD
+http://s.only4.tv/10971/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000035" tvg-logo="http://1lot.tv/ch/10972.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 17 HD
+http://s.only4.tv/10972/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000036" tvg-logo="http://1lot.tv/ch/10973.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 18 HD
+http://s.only4.tv/10973/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000037" tvg-logo="http://1lot.tv/ch/10974.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 19 HD
+http://s.only4.tv/10974/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000038" tvg-logo="http://1lot.tv/ch/10975.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 20 HD
+http://s.only4.tv/10975/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000039" tvg-logo="http://1lot.tv/ch/10976.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 21 HD
+http://s.only4.tv/10976/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000040" tvg-logo="http://1lot.tv/ch/10977.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 22 HD
+http://s.only4.tv/10977/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000015" tvg-logo="http://1lot.tv/ch/10978.png" catchup-type="flussonic" catchup-days="1",Play-X Кинозал 23 HD
+http://s.only4.tv/10978/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000017" tvg-logo="http://1lot.tv/ch/10954.png" catchup-type="flussonic" catchup-days="1",Play-X Пограничный HD
+http://s.only4.tv/10954/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="000002" tvg-logo="http://1lot.tv/ch/10942.png" catchup-type="flussonic" catchup-days="1",Play-X Про Людей и Войну HD
+http://s.only4.tv/10942/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="premiere-hd" tvg-logo="https://epg.iptvx.one/picons/premiere-hd.png" catchup-type="flussonic" catchup-days="3",Premiere HD
+http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/11094/index.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="premium-hd" tvg-logo="https://epg.iptvx.one/picons/premium-hd.png" catchup-type="flussonic" catchup-days="3",Premium HD
+http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/11095/index.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="serial-hd" tvg-logo="https://epg.iptvx.one/picons/serial-hd.png" catchup-type="flussonic" catchup-days="3",Serial HD
+http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/11101/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-id="sky-high-bats-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-bats-fhd.png" catchup-type="flussonic" catchup-days="1",SKY High Bat S HD
 http://s.only4.tv/11055/video.m3u8?token=Uqxoga1IGq
 #EXTINF:-1 group-title="Кинозалы" tvg-id="sky-high-beyond-s-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-beyond-s-fhd.png" catchup-type="flussonic" catchup-days="1",SKY High Beyond S HD
@@ -2189,6 +2283,8 @@ http://s.only4.tv/11070/video.m3u8?token=Uqxoga1IGq
 http://s.only4.tv/11072/video.m3u8?token=Uqxoga1IGq
 #EXTINF:-1 group-title="Кинозалы" tvg-id="sky-high-zippys-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-zippys-fhd.png" catchup-type="flussonic" catchup-days="1",SKY High Zippy S HD
 http://s.only4.tv/11063/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="thriller-hd" tvg-logo="https://epg.iptvx.one/picons/thriller-hd.png" catchup-type="flussonic" catchup-days="3",Thriller HD
+http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/11099/index.m3u8
 #EXTINF:-1 tvg-id="tvplay-dccomics" group-title="Кино и сериалы" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/tvplay-dccomics.png",TVPlay DCComics HD
 http://cdn.ballbrus.com/bigteisti10/08946916/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="tvplay-indiancinema" group-title="Кино и сериалы" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/tvplay-indiancinema.png",TVPlay Indian Cinema HD
@@ -2261,6 +2357,8 @@ http://cdn.balelbrus.com/bigteisti10/08946927/index.m3u8?token=eG1lbnRzMnx8V0RnN
 http://cdn.balelbrus.com/bigteisti10/08947001/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="tvplay-elenrebiata" group-title="Кино и сериалы" catchup="flussonic" catchup-days="1" tvg-logo="https://epg.iptvx.one/picons/tvplay-elenrebiata.png",TVPlay Элен и ребята HD
 http://s.only4.tv/11181/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Кинозалы" tvg-id="ussr-premieregroup" tvg-logo="https://epg.iptvx.one/picons/ussr-premieregroup.png" catchup-type="flussonic" catchup-days="3",USSR HD
+http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/11102/index.m3u
 #EXTINF:-1 tvg-id="velilla-actionwar" group-title="Кинозалы" catchup="flussonic" catchup-days="1" tvg-logo="https://epg.iptvx.one/picons/velilla-actionwar.png",Velilla TV Action War Films HD
 http://s.only4.tv/9443/video.m3u8?token=Uqxoga1IGq
 #EXTINF:-1 tvg-id="velilla-bpiter" group-title="Кинозалы" catchup="flussonic" catchup-days="1" tvg-logo="https://epg.iptvx.one/picons/velilla-bpiter.png",Velilla TV Бандитский Петербург
@@ -2457,6 +2555,10 @@ http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/17014/index.m3u8
 http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/17001/index.m3u8
 #EXTINF:-1 tvg-id="vf-ryazanov" group-title="Кино и сериалы" catchup="flussonic" catchup-days="0" tvg-logo="https://epg.iptvx.one/picons/vf-ryazanov.png",VF Эльдар Рязанов HD
 http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/17012/index.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="vhshd" tvg-logo="https://epg.iptvx.one/picons/vhshd.png" catchup-type="flussonic" catchup-days="3",VHS HD
+http://pl.online24.pm/play/1752/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 group-title="Кинозалы" tvg-id="victory-hd" tvg-logo="https://epg.iptvx.one/picons/victory-hd.png" catchup-type="flussonic" catchup-days="3",Victory HD
+http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/11097/index.m3u8
 #EXTINF:-1 tvg-id="yosso-adrenalin" group-title="Кино и сериалы" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/yosso-adrenalin.png",Yosso TV Adrenaline HD
 http://cdn.balelbrus.com/bigteisti1/Y-ADRENALINE/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="yosso-adventure" group-title="Кино и сериалы" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/yosso-adventure.png",Yosso TV Adventure HD
@@ -2491,6 +2593,8 @@ http://cdn.balelbrus.com/bigteisti1/Y-RUS/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ
 http://cdn.balelbrus.com/bigteisti1/Y-SSSR/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="yosso-tragic" group-title="Кино и сериалы" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/yosso-tragic.png",Yosso TV Трагичное HD
 http://cdn.balelbrus.com/bigteisti1/Y-TRAGIC/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 group-title="Кинозалы" tvg-id="rukino-hd" tvg-logo="https://epg.iptvx.one/picons/rukino-hd.png" catchup-type="flussonic" catchup-days="3",РуКино HD
+http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/11096/index.m3u8
 #EXTINF:-1 tvg-id="tvoyo-tv-hd" catchup="flussonic" catchup-days="3" group-title="Кинозалы" tvg-logo="https://epg.iptvx.one/picons/tvoyo-tv-hd.png",Твоё ТВ HD
 http://cdn.balelbrus.com/bigteisti6/tvoe_tv/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="tvoetv-humor" catchup="flussonic" catchup-days="3" group-title="Кинозалы" tvg-logo="https://epg.iptvx.one/picons/tvoetv-humor.png",Твоё ТВ Юмор HD
@@ -2501,6 +2605,12 @@ http://live.uspeh-bil.ru/8663/video.m3u8?token=UBwVqZcPL8UPmoYU
 http://live.uspeh-bil.ru/8929/video.m3u8?token=UBwVqZcPL8UPmoYU
 #EXTINF:-1 tvg-id="sony-scifi" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/sony-scifi.png",.sci-fi HD
 http://live.uspeh-bil.ru/8115/video.m3u8?token=UBwVqZcPL8UPmoYU
+#EXTINF:-1 tvg-id="4ever-cinema" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/4ever-cinema.png",4ever Cinema HD
+http://cdn.balelbrus.com/bigteisti19/08946929/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="4ever-drama" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/4ever-drama.png",4ever Drama HD
+http://cdn.balelbrus.com/bigteisti19/08946930/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="4ever-theater" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/4ever-theater.png",4ever Theater HD
+http://cdn.balelbrus.com/bigteisti19/08946931/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="amedia1" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/amedia1.png",A1 HD
 http://cdn.balelbrus.com/bigteisti13/AMEDIA1/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="amedia2" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/amedia2.png",A2 HD
@@ -2529,6 +2639,8 @@ http://tchaikovsky.af-stream.com:8080/s/whxqyupu/flix-snip-hd/video.m3u8
 http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/19216/index.m3u8
 #EXTINF:-1 tvg-id="foxlife" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/foxlife.png",FX Life HD
 http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/14003/index.m3u8
+#EXTINF:-1 tvg-id="tv1000-premium" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/tv1000-premium.png",Go3 Films HD
+http://rr3.tvdosug.net/~2013739f06d98dc215e36e30d378cb01e75/95174/hls/pl.m3u8
 #EXTINF:-1 tvg-id="hollywood" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/hollywood.png",Hollywood
 http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/557/index.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/hollywood-hd.png",Hollywood HD
@@ -2801,6 +2913,10 @@ http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/837/index.m3u8
 http://cdn.balelbrus.com/bigteisti10/NATIONALGEOGRAPHIC/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="nat-geo-wild" catchup="flussonic" catchup-days="3" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/nat-geo-wild.png",Nat Geo Wild HD
 http://live.uspeh-bil.ru/8188/video.m3u8?token=UBwVqZcPL8UPmoYU
+#EXTINF:-1 group-title="Познавательные" tvg-id="000004" tvg-logo="http://1lot.tv/ch/10944.png" catchup-type="flussonic" catchup-days="1",Play-X Военная Приемка HD
+http://s.only4.tv/10944/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Познавательные" tvg-id="000001" tvg-logo="http://1lot.tv/ch/10941.png" catchup-type="flussonic" catchup-days="1",Play-X Тайны Чапман HD
+http://s.only4.tv/10941/video.m3u8?token=Uqxoga1IGq
 #EXTINF:-1 tvg-id="rtg-tv" catchup="flussonic" catchup-days="3" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/rtg-tv.png",RTG TV
 http://tchaikovsky.af-stream.com:8080/s/whxqyupu/rtg/video.m3u8
 #EXTINF:-1 tvg-id="rtg-hd" catchup="flussonic" catchup-days="3" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/rtg-hd.png",RTG HD
@@ -3083,18 +3199,20 @@ http://cdn.balelbrus.com/bigteisti8/08936905/index.m3u8?token=eG1lbnRzMnx8V0RnNU
 http://cdn.balelbrus.com/bigteisti8/08936906/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="digisport4" catchup="flussonic" catchup-days="3" group-title="Спортивные"tvg-logo="https://epg.iptvx.one/picons/digisport4.png",Digi Sport 4 HD
 http://cdn.balelbrus.com/bigteisti8/08936907/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
-#EXTINF:-1 tvg-id="divisport" catchup="flussonic" catchup-days="1" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/divisport.png",DiviSport HD
-http://s.only4.tv/10249/video.m3u8?token=Uqxoga1IGq
-#EXTINF:-1 tvg-id="dynamo-kyiv-tv" catchup="flussonic" catchup-days="1" group-title="Спортивные"tvg-logo="https://epg.iptvx.one/picons/dynamo-kyiv-tv.png",Dynamo Kyiv TV HD
-http://s.only4.tv/8128/video.m3u8?token=Uqxoga1IGq
-#EXTINF:-1 tvg-id="equalympic" catchup="flussonic" catchup-days="1" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/equalympic.png",Equalympic HD
-http://s.only4.tv/10682/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 tvg-id="divisport" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/divisport.png",DiviSport HD
+http://ott.watch/stream/M2OKG1JWDY/457.m3u8
+#EXTINF:-1 tvg-id="dynamo-kyiv-tv" catchup="flussonic" catchup-days="3" group-title="Спортивные"tvg-logo="https://epg.iptvx.one/picons/dynamo-kyiv-tv.png",Dynamo Kyiv TV HD
+http://ott.watch/stream/M2OKG1JWDY/396.m3u8
+#EXTINF:-1 tvg-id="equalympic" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/equalympic.png",Equalympic HD
+http://ott.watch/stream/M2OKG1JWDY/485.m3u8
 #EXTINF:-1 tvg-id="eurosport1" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/eurosport1.png",Eurosport 1 HD
 http://cdn.balelbrus.com/bigteisti6/eurosport_1_cee/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="eurosport2" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/eurosport2.png",Eurosport 2 HD
 http://cdn.balelbrus.com/bigteisti6/eurosport_2_cee/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="extreme-sports-ru" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/extreme-sports.png",Extreme Sports HD
 http://cdn.balelbrus.com/bigteisti6/Extreme_sports/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="fightclub" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/fightclub.png",Fight Club HD
+http://tchaikovsky.af-stream.com:8080/s/whxqyupu/fight-club-hd/video.m3u8
 #EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="http://epg.one/img2/7531.png",Fint Ga 1 HD
 http://cdn.balelbrus.com/bigteisti18/08946902/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="http://epg.one/img2/7532.png",Fint Ga 2 HD
@@ -3133,6 +3251,10 @@ http://cdn.balelbrus.com/bigteisti8/08946903/index.m3u8?token=eG1lbnRzMnx8V0RnNU
 http://cdn.balelbrus.com/bigteisti8/08946904/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="megogo-sport" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/megogo-sport.png",Megogo Спорт HD
 http://cdn.balelbrus.com/bigteisti19/08946938/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="maincast-sport" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/maincast-sport.png",Maincast Sport HD
+http://ott.watch/stream/M2OKG1JWDY/490.m3u8
+#EXTINF:-1 tvg-id="maincast" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://dl.dropbox.com/scl/fi/oc9scy7jgiac5oxpnvam1/2026-06-08-144541.png?rlkey=dv8tnz6moz4cmzbly224z2che&dl=0",Maincast Кіберспорт HD
+http://ott.watch/stream/M2OKG1JWDY/487.m3u8
 #EXTINF:-1 tvg-id="m1global" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/m1global.png",MMA-TV.com HD
 http://cdn.balelbrus.com/bigteisti13/m1global/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="nba-tv" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/https://epg.iptvx.one/picons/nba-tv.png.png",NBA TV Turkey HD
@@ -3169,6 +3291,8 @@ http://cdn.balelbrus.com/bigteisti18/08946922/index.m3u8?token=eG1lbnRzMnx8V0RnN
 http://cdn.balelbrus.com/bigteisti18/08946923/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="http://epg.one/img2/8839.png",Pimple TV 6 HD
 http://cdn.balelbrus.com/bigteisti18/08946924/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 group-title="Спортивные" tvg-id="000018" tvg-logo="http://1lot.tv/ch/10988.png" catchup-type="flussonic" catchup-days="1",Play-X Баскетбол USA HD
+http://s.only4.tv/10988/video.m3u8?token=Uqxoga1IGq
 #EXTINF:-1 tvg-id="polsat-sport" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/polsat-sport.png",Polsat Sport 1 HD 
 http://cdn.balelbrus.com/bigteisti13/cG9sc2F0X3Nwb3J0X2hk/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="polsat-sport-extra" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/polsat-sport-extra.png",Polsat Sport 2 HD
@@ -3267,12 +3391,12 @@ http://s.only4.tv/0162/video.m3u8?token=Uqxoga1IGq
 http://cdn.balelbrus.com/bigteisti2/SPORTS_2_BALTIC/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 group-title="Спортивные" tvg-id="sport2-ua" tvg-logo="https://epg.iptvx.one/picons/sport2-ua.png" catchup-type="flussonic" catchup-days="3",Sport 2 Ukraine
 http://s.only4.tv/5569/video.m3u8?token=Uqxoga1IGq
-#EXTINF:-1 group-title="Спортивные" tvg-id="sport3-ua" tvg-logo="https://epg.iptvx.one/picons/sport3-ua.png" catchup-type="flussonic" catchup-days="1",Sport 3 Ukraine HD
-http://s.only4.tv/10680/video.m3u8?token=Uqxoga1IGq
-#EXTINF:-1 group-title="Спортивные" tvg-id="sport4-ua" tvg-logo="https://epg.iptvx.one/picons/sport3-ua.png" catchup-type="flussonic" catchup-days="1",Sport 4 Ukraine
-http://s.only4.tv/10681/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Спортивные" tvg-id="sport3-ua" tvg-logo="https://epg.iptvx.one/picons/sport3-ua.png" catchup-type="flussonic" catchup-days="3",Sport 3 Ukraine HD
+http://ott.watch/stream/M2OKG1JWDY/393.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="sport4-ua" tvg-logo="https://epg.iptvx.one/picons/sport3-ua.png" catchup-type="flussonic" catchup-days="3",Sport 4 Ukraine
+http://ott.watch/stream/M2OKG1JWDY/394.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="sport5" tvg-logo="https://epg.iptvx.one/picons/sport5.png" catchup-type="flussonic" catchup-days="3",Sport 5 HD
-http://rr3.tvdosug.net/~2013739f06d98dc215e36e30d378cb01e75/43938/hls/pl.m3u8
+http://ott.watch/stream/M2OKG1JWDY/212.m3u8
 #EXTINF:-1 tvg-id="sportstv-tr" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/sportstv-tr.png",Sports TV HD
 http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/6828/index.m3u8
 #EXTINF:-1 tvg-id="s-sport-tr" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/s-sport-tr.png",S Sport HD
@@ -3319,11 +3443,13 @@ http://cdn.balelbrus.com/bigteisti10/08946941/index.m3u8?token=eG1lbnRzMnx8V0RnN
 http://s.only4.tv/11673/video.m3u8?token=Uqxoga1IGq
 #EXTINF:-1 tvg-id="tvp-sport" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/tvp-sport.png",TVP Sport HD
 http://cdn.balelbrus.com/bigteisti10/08946951/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="ufc" group-title="Спортивные" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/ufc.png",Udar HD
+http://cdn.balelbrus.com/bigteisti2/UFC/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="upltv" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/upltv.png",UPL.TV HD
 http://cdn.balelbrus.com/bigteisti20/29946910/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
-#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Спортивные" tvg-logo="https://epg.one/img2/8946.png",UPL.TV 1 HD
-http://bpl.online24.pm/play/524/03E0EB83E5A8B86/video.m3u8
-#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.one/img2/8947.png",UPL.TV 2 HD
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.one/img2/8946.png",UPL.TV 1 HD
+http://tchaikovsky.af-stream.com:8080/s/whxqyupu/upl1-ua-hd/video.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="1" group-title="Спортивные" tvg-logo="https://epg.one/img2/8947.png",UPL.TV 2 HD
 http://s.only4.tv/11368/video.m3u8?token=Uqxoga1IGq
 #EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Спортивные" tvg-logo="https://epg.one/img2/8948.png",UPL.TV 3 HD
 http://bpl.online24.pm/play/526/03E0EB83E5A8B86/video.m3u8
@@ -3868,7 +3994,21 @@ http://tchaikovsky.af-stream.com:8080/s/whxqyupu/music-box-sexy-hd/video.m3u8
 #EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="3" group-title="Музыкальные" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/32/Music_Box_UA_%282019%2C_%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9%29.svg/revision/latest?cb=20190907123928&format=original&path-prefix=ru",MusicBox Ukraine HD
 http://s.only4.tv/10701/video.m3u8?token=Uqxoga1IGq
 #EXTINF:-1 tvg-id="muzzon" catchup="flussonic" catchup-days="0" group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/muzzone.png",MuzZone
-https://vkvsd286.okcdn.ru/cmaf/15627823155861/sig/7xVS6ZNd0PU/srcIp/31.40.208.249/urls/185.226.52.53/expires/1780583567191/clientType/13/srcAg/CHROME/fromCache/1/mid/15144880188309/id/15627823155861/get/CJXX0InjuAMQ6AcYBjIICgYIgA8QuAg6BAjE2AJaBggDEAIoF2ICCCDwTM__rY7mMA/track.m3u8
+https://streams.adapto.kz/hls/live/muzzone/main_stream.m3u8
+#EXTINF:-1 group-title="Музыкальные" tvg-id="000042" tvg-logo="http://1lot.tv/ch/10981.png" catchup-type="flussonic" catchup-days="1",Play-X Golden Hits 90-s HD
+http://s.only4.tv/10981/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Музыкальные" tvg-id="000043" tvg-logo="http://1lot.tv/ch/10982.png" catchup-type="flussonic" catchup-days="1",Play-X Music 80-s HD
+http://s.only4.tv/10982/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Музыкальные" tvg-id="000007" tvg-logo="http://1lot.tv/ch/10979.png" catchup-type="flussonic" catchup-days="1",Play-X Music Enigmatic HD
+http://s.only4.tv/10979/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Музыкальные" tvg-id="000046" tvg-logo="http://1lot.tv/ch/10985.png" catchup-type="flussonic" catchup-days="1",Play-X Old School Hits HD
+http://s.only4.tv/10985/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Музыкальные" tvg-id="000044" tvg-logo="http://1lot.tv/ch/10983.png" catchup-type="flussonic" catchup-days="1",Play-X Rock Pop Ballads HD
+http://s.only4.tv/10983/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Музыкальные" tvg-id="000041" tvg-logo="http://1lot.tv/ch/10980.png" catchup-type="flussonic" catchup-days="1",Play-X Блатной Хит HD
+http://s.only4.tv/10980/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Музыкальные" tvg-id="000045" tvg-logo="http://1lot.tv/ch/10984.png" catchup-type="flussonic" catchup-days="1",Play-X Золотой Век HD
+http://s.only4.tv/10984/video.m3u8?token=Uqxoga1IGq
 #EXTINF:-1 tvg-id="polsat-music" catchup="flussonic" catchup-days="0" group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/polsat-music.png",Polsat Music HD
 http://cdn.balelbrus.com/bigteisti2/musicbox_PL/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="rock-tv-ro" catchup="flussonic" catchup-days="3" group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/rock-tv-ro.png",Rock TV HD
@@ -3989,8 +4129,8 @@ http://cdn.balelbrus.com/bigteisti6/m2_HD/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ
 http://cdntv.online/high/ripcd1bny4/82.m3u8
 #EXTINF:-1 tvg-id="muzykamodatv" catchup="append" catchup-days="3" group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/muzykamodatv.png",ММТВ ТВ HD
 https://river-1.rutube.ru/stream/genetta-404.ntv.rutube.ru/TzcrySWw7Hliq90dZb8C7g/1781507560/965a025e4ebbaf0957415f80c6de8534/1080p_stream.m3u8
-#EXTINF:-1 tvg-id="muzwar" catchup="flussonic" catchup-days="1" group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/muzwar.png",Музвар HD
-http://s.only4.tv/8814/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 tvg-id="muzwar" catchup="flussonic" catchup-days="3" group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/muzwar.png",Музвар HD
+http://ott.watch/stream/M2OKG1JWDY/467.m3u8
 #EXTINF:-1 tvg-id="muzsoyuz" catchup="flussonic" catchup-days="3" group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/muzsoyuz.png",МузСоюз HD
 http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/2137/index.m3u8
 #EXTINF:-1 tvg-id="utrk-muzyka-kg" catchup="flussonic" catchup-days="3" group-title="Музыкальные" tvg-logo="https://epg.iptvx.one/picons/utrk-muzyka-kg.png",Музыка
@@ -4033,6 +4173,232 @@ https://streamer.rtkufa.ru/tugantel/hd/chunklist_w755520906.m3u8
 http://live.uspeh-bil.ru/8126/video.m3u8?token=UBwVqZcPL8UPmoYU
 #EXTINF:-1 tvg-id="no_epg_music" catchup="flussonic" catchup-days="0" group-title="Музыкальные" tvg-logo="https://tmt-tv.tj/themes/symnews/shahnavoz-logo-67px.png",Шаҳнавоз HD
 http://live.teleradiocom.tj/9/3m.m3u8
+#EXTINF:-1 tvg-id="1plus1-int" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/1plus1-int.png",1+1 International HD
+http://pl.online24.pm/play/8798/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="1plus1" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/1plus1.png",1+1 Марафон HD
+http://pl.online24.pm/play/9971/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="1plus1-ukraina" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/1plus1-ukraina.png",1+1 Україна HD
+http://bde.online24.pm/play/403/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="11kanal" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/11kanal.png",11 канал HD (Дніпро)
+http://ott.watch/stream/M2OKG1JWDY/250.m3u8
+#EXTINF:-1 tvg-id="2plus2" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/2plus2.png",2+2 HD
+http://pl.online24.pm/play/656/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="1plus1" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/ce/2%2B2_%D0%9C%D0%B0%D1%80%D0%B0%D1%84%D0%BE%D0%BD_%28%D1%81_2024%2C_%D1%8D%D1%84%D0%B8%D1%80%29.webp/revision/20240103181207?path-prefix=ru",2+2 Марафон
+http://81.166.129.185:8001/1:0:16:17EF:C:55:300000:0:0:0
+#EXTINF:-1 tvg-id="24news-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/24news-ua.png",24 канал HD
+http://pl.online24.pm/play/9955/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="36-6-tv" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/36-6-tv.png",36,6 TV HD
+http://pl.online24.pm/play/8794/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/63/7_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_%28%D0%A5%D0%B0%D1%80%D1%8C%D0%BA%D0%BE%D0%B2%2C_2021%29.png/revision/latest?cb=20210705093213&path-prefix=ru",7 канал (Харків)
+https://eun11.playlist.ttvnw.net/v1/playlist/CuMGmdkLPNCAMil2J1hud0LZQgKeyaTg_WGAOOJ5BiaBCBiUh_vi6Wu4GQF-8Fx59gnJNumr0r4rAh0d4Hk6M95XprLnWbg9I2BXiCgINjuzHz1PXdfrWEZ3v7QINqop2AIAytQdUYRdJt-Q5D46k2wtIFAzouiThjm3MXJj376kDGXsZqgB2gUMYYQYR1Lv1cd4mVEFsoe9AgoaF_wMrUtZ0thizyCh5l9ZUpI1siybxu_k9-ivFh9dr_dfOcuHCE9o8ttjnq5wXH5ie2X0wlBqZuFU7YdRbH_mfjvq-_ayGlhg89c4mtZED6w_iPCPfU6l06REdEB1Qe5C3SjQtFN10p_G5YqjJhQ6-mXdSN9c1Xod0vae5DOF8QSq4XID1ebXoJwA-SQNuC9nYBykHA8YTi9AJAuocIAt7S4UtFfS9uIYZ3AjKL-AwO-jkZiBJW7GzS2N-yVRyBzCnE6LMRE4Nn2dBbrhiJpj-yyWKvuFv59t-TUWaqGRPohaYG3kPQlwT5a4hif8DrdKug2wQEsIB46AEI9ZeIP083RgVpq3Zyhbp5iB2oauR4NmEjZC1XeQRRYpVnhfXxScYFhc3D3DYxA4ojmNTyY0PM_86e7op_1J5AC7mcn1DcuOcKqToqKVzmKiAi_q0vtlCuWPcrxzmWHoSNXHpqpDkFjjBPb0gEtFt928oNBnUKRfjrae6D4RPRo_8KTRPGdAyJfjqmkgRrXl2rk_oLFW9E0E4IzT82hDYOiHG40BcRJEWMZdho6KFHob5as0nYV6ajHVQtFHGKnSmonGu6J5rpJLFms4fIBjB3EmRolqaEEsuT09TgVsaSSIevb6u-iYtjl6kvoproHIqPtLjehuSpjqQNLI5usLN3rTKgrxvihSomtWHbQBD-NBlhnNY-Jz4gnwGQotYDyZN0mF-RYSAmn3nC-rps9bG9Qx78bI9BAvtx2BpuxwgKykfj8ICeZBCe76uunW4IyB1R7fjXh0yKUScTIoLJZulC0fAFGzPs35dNzAgS1pPA9s8owabkPvoQFo36i1xC6oHlVWOyWR9fWt7R8v7Uv9u7ZNxJp8qjW63pLBy-pJffl2mMtpyN-pk7yVU0-0_vcltrK3RsLGFPyRWWljylZHvBBhTZMZXvdmNCGmoFswYkuGGgwT_Uen_1y4aLwGlzwgASoJZXUtd2VzdC0yMKkP.m3u8
+#EXTINF:-1 tvg-id="atr-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/atr-ua.png",ATR HD
+http://bel.seetv.cc/play/9945/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="trk-chernivci" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/trk-chernivci.png",C4 HD (Чернівці)
+http://s.only4.tv/11078/index.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="d1-dnepr" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/d1-dnepr.png",D1 HD (Дніпро)
+http://saveukraine.1ce.xyz/10869/index.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="enter-film" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/eko-tv.png",Enter-фільм HD
+http://pl.online24.pm/play/648/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="eko-tv" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/71/Enter-%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC_%28%D1%81_2022%2C_%D1%8D%D1%84%D0%B8%D1%80%29.png/revision/latest?cb=20220310094815&path-prefix=ru",ECO TV HD
+http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/1006/index.m3u8
+#EXTINF:-1 tvg-id="filmua-drama" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/filmua-drama.png",FilmUADrama HD
+http://pl.online24.pm/play/9937/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="ictv-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ictv.png",ICTV HD
+http://pl.online24.pm/play/9973/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="ictv-ukraine" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ictv-ukraine.png",ICTV2 HD
+http://pl.online24.pm/play/6205/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="itv-ua" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/itv-ua.png",ITV HD (Рівне)
+http://s.only4.tv/10871/index.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="kvartal-tv" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/kvartal-tv.png",Kvartal TV HD
+http://live.uspeh-bil.ru/8345/video.m3u8?token=UBwVqZcPL8UPmoYU
+#EXTINF:-1 tvg-id="lale" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/lale.png",Lale HD
+http://pl.online24.pm/play/8114/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="oboz-tv" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/oboz-tv.png",Obozrevatel TV HD
+http://tchaikovsky.af-stream.com:8080/s/whxqyupu/oboz-ua-hd/video.m3u8
+#EXTINF:-1 tvg-id="prokino" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/prokino.png",ProKino HD
+http://s.only4.tv/7705/video.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="superplus" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/superplus.png",Super+ HD
+http://tchaikovsky.af-stream.com:8080/s/whxqyupu/super-plus-ua-hd/video.m3u8
+#EXTINF:-1 tvg-id="tva-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/tva-ua.png",TVA (Чернівці)
+http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/1072/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://dl.dropbox.com/scl/fi/1w3c8b05vklv9hph58gi0/.png?rlkey=6tpeasst6i51gvqx26j3fenjx&dl=0",UA Fashion TV HD
+http://ottlinks.club/hls/7jic59vkp2tz/768.m3u8
+#EXTINF:-1 tvg-id="zoom-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/zoom-ua.png",Zoom HD
+http://pl.online24.pm/play/1798/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="avers" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/avers.png",Аверс (Луцьк)
+http://s.only4.tv/8158/index.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="apostrof" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/apostrof.png",Апостроф TV HD
+http://pl.online24.pm/play/9952/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="armia-tv-ua" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/armia-tv-ua.png",Армія TV HD
+http://s.only4.tv/9009/index.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/3/30/%D0%91%D0%B8%D0%BA_HD_%28%D0%91%D0%B0%D0%BB%D1%82%D0%B0%29.png/revision/latest?cb=20210509104334&format=original&path-prefix=ru",БІК (Балта)
+http://s.only4.tv/11492/index.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="bigudi" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/bigudi.png",Бігуді HD
+http://tchaikovsky.af-stream.com:8080/s/whxqyupu/bigudi-ua-hd/video.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://dl.dropbox.com/scl/fi/1gfr7zohmmdumq5h9t1a2/2025-12-20-150622.png?rlkey=845md1vufv4lk6jccgqrriyhd&dl=0",Візит HD (Кременчук)
+http://s.only4.tv/9008/index.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://dl.dropbox.com/scl/fi/ssji046kwv35evj84dpbd/2025-12-20-160749.png?rlkey=2525ft0nb4mqez6tz3olcfh8h&dl=0",Віта ТБ HD (Вінниця)
+http://s.only4.tv/11115/index.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="dom" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/dom.png",Дім HD
+http://ott.watch/stream/M2OKG1JWDY/383.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://dl.dropbox.com/scl/fi/27zeogbeq3hrc49pyvchz/2025-12-20-150323.png?rlkey=fswdbxandmogng1uje6duiiw3&dl=0",Дніпро TV HD
+http://s.only4.tv/8136/video.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="espreso-tv" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/espreso-tv.png",Еспресо TV HD
+http://pl.online24.pm/play/408/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="znajem24" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/znajem24.png",Знаєм 24 HD
+http://ott.watch/stream/M2OKG1JWDY/145.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://dl.dropbox.com/scl/fi/hehjpot8s0rya2buvfsrq/2025-12-06-124519.png?rlkey=62n8ty4nwh9nx304cc6bih1mp&dl=0",Iзмаїл
+rtmp://cdn10.live-tv.cloud/izod/izod
+#EXTINF:-1 tvg-id="inter-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/b/b8/%D0%98%D0%BD%D1%82%D0%B5%D1%80_4_%D1%8D%D1%84%D0%B8%D1%80%D0%BD%D1%8B%D0%B9.png/revision/latest?cb=20210602155241&path-prefix=ru",Інтер HD
+http://pl.online24.pm/play/8833/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="inter-plus-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/inter-plus-ua.png",Інтер+ HD
+http://pl.online24.pm/play/8830/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="islandiya" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/islandiya.png",Ісландія HD
+http://pl.online24.pm/play/8796/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="k1-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/K1_%28Ukraine%29_%282014%29_%28usual%29.svg/revision/latest?cb=20190606115116",К1 HD
+http://pl.online24.pm/play/8836/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="k2-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/k2-ua.png",К2 HD
+http://pl.online24.pm/play/8835/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="kyiv-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://dl.dropbox.com/scl/fi/fjdhx1uwvkymv1lgsphbx/_-_-2023_-.-_-_24_News.jpg?rlkey=0n9q4tflxzednx5k85uvs0aec&dl=0",Київ 24 News HD
+http://pl.online24.pm/play/9908/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="1565-konkurent-tv-hd" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://static.wikia.nocookie.net/televizionnofutbolnaya-viki/images/f/f1/%D0%9A%D0%BE%D0%BD%D0%BA%D1%83%D1%80%D0%B5%D0%BD%D1%82_TV.png/revision/latest?cb=20240714100738&path-prefix=ru",Конкурент Волинь HD
+http://pl.online24.pm/play/532/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="konkurent-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/konkurent-ua.png",Конкурент Україна HD
+http://pl.online24.pm/play/531/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://dl.dropbox.com/scl/fi/hj4zfe44dh6q5w97txqgi/2logokptrk.png?rlkey=08nxbuk4rh6ub89klbmz3og2h&dl=0",К-П ТРК
+rtmp://cdn10.live-tv.cloud/k-ptrk/720p
+#EXTINF:-1 tvg-id="kus-kus" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/kus-kus.png",Кус-Кус HD
+http://tchaikovsky.af-stream.com:8080/s/whxqyupu/kus-kus-ua-hd/video.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://www.dropbox.com/scl/fi/9slsfm1xthe0nky63ir4s/2025-05-16-193058.png?rlkey=1oy3jlotpwrbnahci0cm12u3t&dl=0",Круг (Одеса)
+rtmp://cdn1.live-tv.cloud/krugod/krugod
+#EXTINF:-1 tvg-id="mart-tv" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/mart-tv.png",Март HD (Миколаїв)
+http://bde.online24.pm/play/15010/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="mega-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/mega-ua.png",Мега HD
+http://pl.online24.pm/play/8832/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="my-ukraina" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/my-ukraina.png",Ми - Україна HD
+http://ott.watch/stream/M2OKG1JWDY/442.m3u8
+#EXTINF:-1 tvg-id="my-ukraina-plus" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/my-ukraina-plus.png",Ми - Україна+ HD
+http://s.only4.tv/10651/index.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://dl.dropbox.com/scl/fi/bouv7uoytka5qtjzluuos/i.webp?rlkey=tglfs52wpe0ptswndw7l02igg&dl=0",МТМ HD (Запоріжжя)
+http://ott.watch/stream/M2OKG1JWDY/254.m3u8
+#EXTINF:-1 tvg-id="ntn-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ntn-ua.png",НТН HD
+http://pl.online24.pm/play/402/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="nadia" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://dl.dropbox.com/scl/fi/hphc96rogvsabrs673wqu/2026-04-20-161159.png?rlkey=4hiywx987ioaygisjjn77oddj&dl=0",Надія
+http://s.only4.tv/0182/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/c/c8/%D0%9D%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0_%28%D0%9F%D0%B5%D1%80%D0%B2%D0%BE%D0%BC%D0%B0%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%2C_2002_%D1%8D%D1%84%D0%B8%D1%80%D0%BD%D1%8B%D0%B9%29.png/revision/latest/scale-to-width-down/799?cb=20210207215231&path-prefix=ru",Надiя (Златопіль)
+http://92.114.85.60/nadiya_novychannel/mpegts
+#EXTINF:-1 tvg-id="novy-kanal-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/novy-kanal-ua.png",Новий канал HD
+http://pl.online24.pm/play/9974/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="novy-xristiansky" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/novy-xristiansky.png",Новий християнський
+http://81.166.129.185:8001/1:0:16:1D88:107B:55:300000:0:0:0
+#EXTINF:-1 tvg-id="hta" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/hta.png",НТА HD (Львів)
+http://s.only4.tv/6562/video.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://dl.dropbox.com/scl/fi/vifcphgx7bllf6mxh7ysi/2025-12-20-151250.png?rlkey=glg9do2q15f4tj4n3n8n7pos6&dl=0",НТК HD (Коломия)
+http://s.only4.tv/6556/video.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://dl.dropbox.com/scl/fi/pn8ek9b1hpcfgdotr601y/2025-12-20-155024.png?rlkey=wn6gjmgtxl346tt2srkzinub0&dl=0",Орбіта (Покровск)
+http://bde.online24.pm/play/6235/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="otb-galychyna" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/otb-galychyna.png",ОТБ Галичина HD (Івано-Франківськ)
+http://s.only4.tv/8135/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 tvg-id="otse" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/otse.png",ОЦЕ HD
+http://pl.online24.pm/play/9905/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="5kanal-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/5kanal-ua.png",П'ятий канал HD
+http://pl.online24.pm/play/406/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="ua-pershy" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ua-pershy.png",Перший HD
+http://pl.online24.pm/play/646/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="1auto" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/1auto.png.png",Перший автомобільний HD
+http://pl.online24.pm/play/8869/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://dl.dropbox.com/scl/fi/y6cmv8my2kbvovk5frbx7/2026-04-21-111020.png?rlkey=1j3lprarxjhhss5h96n8e10fb&dl=0",Перший Закарпатський (Ужгород)
+http://91.226.35.134:8081/PK
+#EXTINF:-1 tvg-id="pershy-zaxidny" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/pershy-zaxidny.png",Перший Західний HD (Львів)
+http://ott.watch/stream/M2OKG1JWDY/246.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://dl.dropbox.com/scl/fi/dghfb0gzp7cs8ptis665l/2025-12-20-151444.png?rlkey=duj7h9wa442pgsforqwwgo6iu&dl=0",Перший Міський (Кривий Ріг)
+http://s.only4.tv/6748/index.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="pervy-gorodskoy-kryvrig" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/pervy-gorodskoy-odessa.png",Перший Міський HD (Одеса)
+http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/981/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/7/74/%D0%9F%D0%B5%D1%80%D1%88%D0%B8%D0%B9_%D0%9F%D0%BE%D0%B4%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%28%D0%B5%D1%84%D1%96%D1%80%D0%BD%D0%B8%D0%B9%2C_2018-2019%29.png/revision/latest?cb=20210509111301&format=original&path-prefix=ru",Перший Подільський HD (Хмельницький)
+http://bpl.online24.pm/play/5121/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="pixel" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/pixel.png",Пiксель TV HD
+http://pl.online24.pm/play/8839/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="http://1lot.tv/ch/11079.png",ПравдаТУТ HD (Львів)
+http://s.only4.tv/11079/index.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="plusplus" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/plusplus.png",ПлюсПлюс HD
+http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/6379/index.m3u8
+#EXTINF:-1 tvg-id="ptrk-pavlograd" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ptrk-pavlograd.png",ПТРК HD (Павлоград)
+http://s.only4.tv/11087/index.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="priamyj" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/priamyj.png",Прямий HD
+http://pl.online24.pm/play/2605/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="rai-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/rai-ua.png",РАІ HD (Івано-Франківськ)
+http://ott.watch/stream/M2OKG1JWDY/249.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/reportior.png",Репортер (Одеса)
+rtmp://cdn1.live-tv.cloud/31chod/31chod
+#EXTINF:-1 tvg-id="rybalka" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/rybalka.png",Рибалка HD
+http://pl.online24.pm/play/9967/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="rivne1" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/rivne1.png",Рівне-1 HD
+http://pl.online24.pm/play/8803/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="svarozhichi" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/svarozhichi.png",Сварожичи HD
+http://s.only4.tv/9436/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 tvg-id="svit-plus-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/svit-plus-ua.png",Світ+
+http://ott.watch/stream/M2OKG1JWDY/358.m3u8
+#EXTINF:-1 tvg-id="epoque" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/epoque.png",Світло HD
+http://s.only4.tv/7739/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 tvg-id="ck1-ua" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ck1-ua.png",СК1 HD (Житомир)
+http://s.only4.tv/8122/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://dl.dropbox.com/scl/fi/pr4x97p95eja2s5urd319/snyatin.webp?rlkey=iupayck06lccld7sbfavfemth&dl=0",Снятин HD
+http://bde.online24.pm/play/15006/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="sonce-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/sonce.png",Сонце
+http://pl.online24.pm/play/9913/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Sonce%2B_%28logo%29_2024.png/500px-Sonce%2B_%28logo%29_2024.png",Сонце+
+http://bde.online24.pm/play/15007/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="stb-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/stb-ua.png",СТБ HD
+http://pl.online24.pm/play/9975/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="51kanal" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ua-dnipro.png",Суспільне Дніпро
+http://ottlinks.club/hls/7jic59vkp2tz/810.m3u8
+#EXTINF:-1 tvg-id="ua-donbas" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ua-donbas.png",Суспільне Донбас
+http://s.only4.tv/8804/mono.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="uua-zaporizhzha" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ua-zaporizhzha.png",Суспільне Запоріжжя
+http://ottlinks.club/hls/7jic59vkp2tz/811.m3u8
+#EXTINF:-1 tvg-id="ua-kyiv" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ua-kyiv.png",Суспільне Київ HD
+http://pl.online24.pm/play/5498/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="ua-krym" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ua-krym.png",Суспільне Крим HD
+http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/31746/index.m3u8
+#EXTINF:-1 tvg-id="ua-kropyvnycky" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ua-kropyvnycky.png",Суспільне Кропивницький HD
+http://s.only4.tv/8809/mono.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="kultura-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/kultura-ua.png",Суспільне Культура HD
+http://pl.online24.pm/play/9909/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="ua-volyn" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ua-volyn.png",Суспільне Луцьк HD
+http://s.only4.tv/8808/mono.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="ua-lviv" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ua-lviv.png",Суспільне Львів HD
+http://s.only4.tv/8803/index.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="ua-odesa" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ua-odesa.png",Суспільне Одеса HD
+http://s.only4.tv/8810/mono.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="ua-poltava" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ua-poltava.png",Суспільне Полтава HD
+http://pl.online24.pm/play/6219/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="ua-zakarpattia" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ua-zakarpattia.png",Суспільне Ужгород HD
+http://s.only4.tv/8807/mono.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="ua-xerson" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ua-xerson.png",Суспільне Херсон HD
+http://ru.online24.pm/play/8805/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="ua-bukovyna" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ua-bukovyna.png",Суспільне Чернівці
+http://bpl.online24.pm/play/8806/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="supermama" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/supermama.png",Супермама HD
+http://s.only4.tv/10660/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://dl.dropbox.com/scl/fi/1ixspwssj34v32r2rw2d4/2025-12-20-154732.png?rlkey=15j61rkgzaxhzoibz8sht761j&dl=0",Сфера-ТВ (Рівне)
+http://s.only4.tv/8024/index.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="tvij-serial" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/tvij-serial.png",Твiй Серiал HD
+http://pl.online24.pm/play/23/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="televsesvit" catchup="flussonic" catchup-days="0" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/televsesvit.png",Телевсесвіт HD
+http://ottlinks.club/high/7jic59vkp2tz/861.m3u8
+#EXTINF:-1 tvg-id="ternopil1" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/ternopil1.png",Тернопіль 1 HD
+http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/975/index.m3u8
+#EXTINF:-1 tvg-id="tet-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/tet.png",ТЕТ HD
+http://pl.online24.pm/play/9954/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="1" group-title="Украина" tvg-logo="https://dl.dropbox.com/scl/fi/rm7lkwuo8fx9bivis810x/2025-12-20-161738.png?rlkey=0qmazj77y8oajd1i7lpdy6882&dl=0",TIC (Визирка)
+http://s.only4.tv/11082/index.m3u8?token=QXpsvpikPn
+#EXTINF:-1 tvg-id="trofey" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/trofey.png",Трофей HD
+http://bde.online24.pm/play/9939/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="unian-tv" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://iptvx.one/assets/files/2025-07-30/1753869795-784228-unian-serial.pngg",УНIАН. Серiал HD
+http://pl.online24.pm/play/9949/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-id="front-ua" catchup="flussonic" catchup-days="3" group-title="Украина" tvg-logo="https://epg.iptvx.one/picons/front-ua.png",Фронт HD
+http://ott.watch/stream/M2OKG1JWDY/489.m3u8
 #EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Литва" tvg-id="balticum-platinum" tvg-logo="https://dl.dropbox.com/scl/fi/944soyu3qnvrnys6pb7ot/2026-06-06-175325.png?rlkey=8ia4p9hupdmr4rdv18bklz5qr&dl=0",Balticum Platinum HD
 http://rr3.tvdosug.net/~2013739f06d98dc215e36e30d378cb01e75/19587/hls/pl.m3u8
 #EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Литва" tvg-id="btv" tvg-logo="https://epg.iptvx.one/picons/btv.png",BTV HD
