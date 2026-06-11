@@ -401,7 +401,7 @@ http://cdn.balelbrus.com/bigteisti8/RUSSIA1/index.m3u8?token=eG1lbnRzMnx8V0RnNU1
 http://cdn.balelbrus.com/bigteisti8/M_HD/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="ntv" catchup="flussonic" catchup-days="3" group-title="Федеральные" tvg-logo="https://epg.iptvx.one/picons/ntv.png",НТВ HD
 http://cdn.balelbrus.com/bigteisti8/ntvhd/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
-#EXTINF:-1 tvg-id="ntv-mir" catchup="flussonic" catchup-days="3" group-title="Федеральные" tvg-logo="https://epg.iptvx.one/picons/ntv-mir.png",НТВ HD
+#EXTINF:-1 tvg-id="ntv-mir" catchup="flussonic" catchup-days="3" group-title="Федеральные" tvg-logo="https://epg.iptvx.one/picons/ntv-mir.png",НТВ Мир
 http://cdn.balelbrus.com/bigteisti6/ntv_mir/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="5kanal-ru" catchup="flussonic" catchup-days="3" group-title="Федеральные" tvg-logo="https://iptvx.one/assets/files/2025-03-30/1743352183-254631-5tvruhd200.png",Пятый канал HD
 http://cdn.balelbrus.com/bigteisti2/PIATIY/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
@@ -1737,7 +1737,6 @@ http://cdn.balelbrus.com/bigteisti13/minimax_sitcom/index.m3u8?token=eG1lbnRzMnx
 #EXTINF:-1 tvg-id="otv-lv" group-title="Развлекательные" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/otv-lv.png",OTV HD
 http://rr3.tvdosug.net/~2013739f06d98dc215e36e30d378cb01e75/42294/hls/pl.m3u8
 #EXTINF:-1 tvg-id="tv-extra" group-title="Развлекательные" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/tv-extra.png",TV Extra
-#EXTGRP:Baltic
 http://cdn.balelbrus.com/bigteisti19/08946912/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="tvplay-6kadrov" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tvplay-6kadrov.png" catchup-type="flussonic" catchup-days="3",TVPlay 6 кадров HD
 http://cdn.balelbrus.com/bigteisti10/08946909/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
@@ -1747,6 +1746,12 @@ http://cdn.balelbrus.com/bigteisti10/08946935/index.m3u8?token=eG1lbnRzMnx8V0RnN
 http://cdn.balelbrus.com/bigteisti10/08946911/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="tvplay-kaketo" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tvplay-kaketo.png" catchup-type="flussonic" catchup-days="1",TVPlay Как это Было HD
 http://s.only4.tv/11180/video.m3u8?token=QUqxoga1IGq
+#EXTINF:-1 tvg-id="tvplay-sketchshow" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tvplay-sketchshow.png" catchup-type="flussonic" catchup-days="3",TVPlay Скетч-Шоу HD
+http://cdn.balelbrus.com/bigteisti10/08946912/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="tvplay-fitil" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tvplay-fitil.png" catchup-type="flussonic" catchup-days="3",TVPlay Фитиль HD
+http://s.only4.tv/11179/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 tvg-id="tvplay-yumor" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tvplay-yumor.png catchup-type="flussonic" catchup-days="3",TVPlay Юмор HD
+http://cdn.balelbrus.com/bigteisti10/08946903/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 group-title="Развлекательные" tvg-id="000009" tvg-logo="http://1lot.tv/ch/10948.png" catchup-type="flussonic" catchup-days="1",Play-X Beast Games HD
 http://s.only4.tv/10948/video.m3u8?token=Uqxoga1IGq
 #EXTINF:-1 group-title="Развлекательные" tvg-id="000006" tvg-logo="http://1lot.tv/ch/10946.png" catchup-type="flussonic" catchup-days="1",Play-X 6 Кадров HD
@@ -1767,12 +1772,6 @@ http://s.only4.tv/10949/video.m3u8?token=Uqxoga1IGq
 http://s.only4.tv/10950/video.m3u8?token=Uqxoga1IGq
 #EXTINF:-1 group-title="Развлекательные" tvg-id="000012" tvg-logo="http://1lot.tv/ch/10951.png" catchup-type="flussonic" catchup-days="1",Play-X Уральские Пельмени HD
 http://s.only4.tv/10951/video.m3u8?token=Uqxoga1IGq
-#EXTINF:-1 tvg-id="tvplay-sketchshow" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tvplay-sketchshow.png" catchup-type="flussonic" catchup-days="3",TVPlay Скетч-Шоу HD
-http://cdn.balelbrus.com/bigteisti10/08946912/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
-#EXTINF:-1 tvg-id="tvplay-fitil" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tvplay-fitil.png" catchup-type="flussonic" catchup-days="3",TVPlay Фитиль HD
-http://s.only4.tv/11179/video.m3u8?token=Uqxoga1IGq
-#EXTINF:-1 tvg-id="tvplay-yumor" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/tvplay-yumor.png catchup-type="flussonic" catchup-days="3",TVPlay Юмор HD
-http://cdn.balelbrus.com/bigteisti10/08946903/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="vf-comedy-woman" group-title="Развлекательные" catchup-type="flussonic" catchup-days="0" tvg-logo="https://epg.iptvx.one/picons/vf-comedy-woman.png",VF Comedy Woman HD
 http://n8eolldx.tvclub.xyz/iptv/QL63XCPSAXD83XW54XEES2PB/18101/index.m3u8
 #EXTINF:-1 tvg-id="vf-gorodok" group-title="Развлекательные" catchup-type="flussonic" catchup-days="0" tvg-logo="https://epg.iptvx.one/picons/vf-kalambur.png",VF Городок HD
@@ -3258,7 +3257,6 @@ http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/31610/index.m3u8
 http://line.tivi-one.net:80/play/live.php?mac=00:1B:79:F9:40:C2&stream=558964&extension=ts&play_token=Y232XAT6oe
 #EXTINF:0  tvg-id="arena-sport-1x2-rs" catchup="flussonic" catchup-days="0" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/arena-sport-1x2-rs.png",Arena Sport 1x2 Serbia HD
 http://gljalohc.tvclub.xyz/iptv/Y56NG6HD2HXNF4/31611/index.m3u8
-#EXTINF:0 group-title="Спорт" tvg-id="9305" tvg-logo="http://epg.one/img/9305.png" tvg-rec="0",BOX 
 #EXTINF:-1 tvg-id="a-spor-tr" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/a-spor-tr.png",A Spor HD
 http://tchaikovsky.af-stream.com:8080/s/whxqyupu/a-spor-hd-tr/video.m3u8
 #EXTINF:-1 tvg-id="bein-sports-1-tr" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/bein-sports-1-tr.png",beIN Sports 1 Turkey HD
@@ -4685,8 +4683,24 @@ http://pl.online24.pm/play/862/03E0EB83E5A8B86/video.m3u8
 http://cdn.balelbrus.com/bigteisti1/TV_6/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Литва" tvg-id="tv8-lt" tvg-logo="https://epg.iptvx.one/picons/tv8-lt.png",TV8 HD
 http://rr3.tvdosug.net/~2013739f06d98dc215e36e30d378cb01e75/36239/hls/pl.m3u8
-#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Литва" tvg-id="69285" tvg-logo="http://epg.propg.net/img/channel_icons/69285.png",Tavo TV
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Литва" tvg-id="69285" tvg-logo="http://epg.propg.net/img/channel_icons/69285.png",Tavo TV HD
 http://rr3.tvdosug.net/~2013739f06d98dc215e36e30d378cb01e75/69285/hls/pl.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Литва" tvg-id="360-lv" tvg-logo="https://dl.dropbox.com/scl/fi/ro6676g8snu9uqppw7vkq/2026-06-11-165136.png?rlkey=nmjpjy5v58mz3cnz2gsu43fbz&dl=0",360TV HD
+http://tchaikovsky.af-stream.com:8080/s/whxqyupu/360tv-lv/video.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Латвия" tvg-id="ltv1" tvg-logo="https://epg.iptvx.one/picons/ltv1.png",LTV1 HD
+http://tchaikovsky.af-stream.com:8080/s/whxqyupu/ltv1-lv-hd/video.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-days="1" group-title="Латвия" tvg-id="ltv7" tvg-logo="https://epg.iptvx.one/picons/ltv7.png",LTV7 HD
+http://tchaikovsky.af-stream.com:8080/s/whxqyupu/ltv7-hd-lv/video.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Латвия" tvg-id="re-tv" tvg-logo="https://epg.iptvx.one/picons/re-tv.png",Re:TV HD
+http://tchaikovsky.af-stream.com:8080/s/whxqyupu/re-lv/video.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Латвия" tvg-id="stv-pirma!" tvg-logo="https://dl.dropbox.com/scl/fi/u1y6zwxj35smzzf8uypyr/2026-06-11-164754.png?rlkey=z9acxx962l3sk2xgn4jjikq1q&dl=0",STV Pirmā! HD
+http://tchaikovsky.af-stream.com:8080/s/whxqyupu/stv-lv/video.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Латвия" tvg-id="tv3-lv" tvg-logo="https://dl.dropbox.com/scl/fi/1d5zby6mfpsa8b652pdbw/2026-06-11-163150.png?rlkey=i1hfpe6q8ueo6pb6589dwix0u&dl=0",TV3 HD
+http://pl.online24.pm/play/861/03E0EB83E5A8B86/video.m3u8
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Латвия" tvg-id="tv6-lv" tvg-logo="https://epg.iptvx.one/picons/tv6-lv.png",TV6 HD
+http://cdn.balelbrus.com/bigteisti19/08946933/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-rec="3" catchup-days="3" group-title="Латвия" tvg-id="riga-tv24" tvg-logo="https://epg.iptvx.one/picons/riga-tv24.png",Rīga TV24 HD
+http://cdn.balelbrus.com/bigteisti20/09946936/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="kanal-11-ee" tvg-rec="1" timeshift="3" tvg-logo="https://epg.iptvx.one/picons/kanal-11-ee.png" group-title="Эстония",Duo 4 Estonia HD
 http://tchaikovsky.af-stream.com:8080/s/whxqyupu/duo4-ee-hd/video.m3u8
 #EXTINF:-1 tvg-id="kanal-12-ee" tvg-rec="1" timeshift="3" tvg-logo="https://epg.iptvx.one/picons/kanal-12-ee.png" group-title="Эстония",Duo 5 Estonia HD
@@ -4697,8 +4711,6 @@ http://n8eolldx.tvclub.xyz/iptv/QL63XCPSAXD83XW54XEES2PB/12011/index.m3u8
 http://cdn.balelbrus.com/bigteisti1/ETV_2_EE/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="etv-plus-ee" catchup="flussonic" catchup-days="3" group-title="Эстония" tvg-logo="https://epg.iptvx.one/picons/etv-plus-ee.png",ETV+ HD
 http://bel.seetv.cc/play/6973/03E0EB83E5A8B86/video.m3u8
-#EXTINF:-1 tvg-id="duo-one-ee" catchup="flussonic" catchup-days="3" group-title="Эстония" tvg-logo="https://epg.iptvx.one/picons/duo-one-ee.png",Duo One HD
-http://tchaikovsky.af-stream.com:8080/s/whxqyupu/duo-one-ee-hd/video.m3u8
 #EXTINF:-1 tvg-id="kanal-2-ee" catchup="flussonic" catchup-days="3" group-title="Эстония" tvg-logo="https://epg.iptvx.one/picons/kanal-2-ee.png",Kanal 2 HD
 http://cdn.balelbrus.com/bigteisti1/KANAL_2_EE/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="duo7ee" catchup="flussonic" catchup-days="3" group-title="Эстония" tvg-logo="https://epg.iptvx.one/picons/duo7ee.png",Kanal 7 HD
