@@ -3055,6 +3055,8 @@ http://s.only4.tv/7949/video.m3u8?token=Uqxoga1IGq
 http://s.only4.tv/8028/video.m3u8?token=Uqxoga1IGq
 #EXTINF:-1 group-title="Познавательные" tvg-id="sky-high-nature-fhd" tvg-logo="https://epg.iptvx.one/picons/sky-high-nature-fhd.png" catchup-type="flussonic" catchup-days="1",SKY High Nature HD
 http://s.only4.tv/8064/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Познавательные" tvg-id="smartzone" tvg-logo="https://epg.iptvx.one/picons/smartzone.png" catchup-type="flussonic" catchup-days="0",SmartZone HD
+http://rr3.tvdosug.net/~2013739f06d98dc215e36e30d378cb01e75/19537/hls/pl.m3u8
 #EXTINF:-1 tvg-id="tlc" catchup="flussonic" catchup-days="0" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/tlc.png",TLC Pan Regional HD
 http://cdn.balelbrus.com/bigteisti2/TLC/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="travel-adventure" catchup="flussonic" catchup-days="3" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/travel-adventure.png",Travel+Adventure HD
@@ -3276,8 +3278,10 @@ http://cdn.balelbrus.com/bigteisti8/08936924/index.m3u8?token=eG1lbnRzMnx8V0RnNU
 http://cdn.balelbrus.com/bigteisti18/08946929/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="http://epg.one/img2/88006.png",Betking Live 2 HD
 http://cdn.balelbrus.com/bigteisti18/08946930/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
-#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Спортивные" tvg-logo="http://epg.one/img2/88007.png",Betking Live 3 HD
-http://rr3.tvdosug.net/~2013739f06d98dc215e36e30d378cb01e75/63553/hls/pl.m3u8
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="1" group-title="Спортивные" tvg-logo="http://epg.one/img2/88007.png",Betking Live 3 HD
+http://s.only4.tv/11671/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="1" group-title="Спортивные" tvg-logo="http://epg.one/img2/88007.png",Billiards+ HD
+http://s.only4.tv/8175/video.m3u8?token=Uqxoga1IGq
 #EXTINF:-1 tvg-id="box-beonedge" catchup="flussonic" catchup-days="1" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/box-beonedge.png",BOX Be On Edge HD
 http://live.biluspeh.com/8423/video.m3u8?token=UBwVqZcPL8UPmoYU
 #EXTINF:-1 tvg-id="box-beonedge1live" catchup="flussonic" catchup-days="1" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/box-beonedge1live.png",BOX Be On Edge 1 Live HD
@@ -3334,8 +3338,10 @@ http://cdn.balelbrus.com/bigteisti13/Y2FuYWxfcGx1c19zcG9ydF8z/index.m3u8?token=e
 http://cdn.balelbrus.com/bigteisti13/Y2FuYWxfcGx1c19zcG9ydF80/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="canal-pl-sport-5" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/canal-pl-sport-5.png",Canal+ Sport 5 Poland HD 
 http://cdn.balelbrus.com/bigteisti9/18946934/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
-#EXTINF:-1 tvg-id="cbc-sport" catchup="flussonic" catchup-days="3" group-title="Спортивные"tvg-logo="https://epg.iptvx.one/picons/cbc-sport.png",CBC Sport HD
+#EXTINF:-1 tvg-id="cbc-sport" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/cbc-sport.png",CBC Sport HD
 http://cdn.balelbrus.com/bigteisti2/08936919/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 group-title="Спортивные" tvg-id="cbs-sports-network-us" tvg-logo="https://epg.iptvx.one/picons/cbs-sports-network-us.png" catchup-type="flussonic" catchup-days="1",CBS Sports Network HD
+http://s.only4.tv/7931/video.m3u8?token=Uqxoga1IGq
 #EXTINF:-1 tvg-id="ct-sport" catchup="flussonic" catchup-days="0" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/ct-sport.png",ČT Sport HD
 http://line.tivi-one.net:80/play/live.php?mac=00:1B:79:F9:40:C2&stream=960450&extension=ts&play_token=D5XfQrwckO
 #EXTINF:-1 tvg-id="digisport1" catchup="flussonic" catchup-days="3" group-title="Спортивные"tvg-logo="https://epg.iptvx.one/picons/digisport1.png",Digi Sport 1 HD
@@ -3368,6 +3374,34 @@ http://cdn.balelbrus.com/bigteisti18/08946903/index.m3u8?token=eG1lbnRzMnx8V0RnN
 http://cdn.balelbrus.com/bigteisti18/08946904/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="http://epg.one/img2/8840.png",Fint Ga 4 HD
 http://cdn.balelbrus.com/bigteisti18/08946905/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10203.png" catchup-type="flussonic" catchup-days="1",Football Live 1 HD
+http://s.only4.tv/10203/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10204.png" catchup-type="flussonic" catchup-days="1",Football Live 2 HD
+http://s.only4.tv/10204/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10205.png" catchup-type="flussonic" catchup-days="1",Football Live 3 HD
+http://s.only4.tv/10205/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10206.png" catchup-type="flussonic" catchup-days="1",Football Live 4 HD
+http://s.only4.tv/10206/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10207.png" catchup-type="flussonic" catchup-days="1",Football Live 5 HD
+http://s.only4.tv/10207/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10208.png" catchup-type="flussonic" catchup-days="1",Football Live 6 HD
+http://s.only4.tv/10208/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10209.png" catchup-type="flussonic" catchup-days="1",Football Live 7 HD
+http://s.only4.tv/10209/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10210.png" catchup-type="flussonic" catchup-days="1",Football Live 8 HD
+http://s.only4.tv/10210/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10211.png" catchup-type="flussonic" catchup-days="1",Football Live 9 HD
+http://s.only4.tv/10211/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10212.png" catchup-type="flussonic" catchup-days="1",Football Live 10 HD
+http://s.only4.tv/10212/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10213.png" catchup-type="flussonic" catchup-days="1",Football Live 11 HD
+http://s.only4.tv/10213/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10214.png" catchup-type="flussonic" catchup-days="1",Football Live 12 HD
+http://s.only4.tv/10214/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Спортивные" tvg-id="no_epg" tvg-logo="http://1lot.tv/ch/10215.png" catchup-type="flussonic" catchup-days="1",Football Live 13 HD
+http://s.only4.tv/10215/video.m3u8?token=Uqxoga1IGq
+#EXTINF:-1 group-title="Спорт" tvg-id="fubo-sports-network-us" tvg-logo="https://epg.iptvx.one/picons/fubo-sports-network-us.png" catchup-type="flussonic" catchup-days="0",FUBO Sports Network HD
+http://line.tivi-one.net:80/play/live.php?mac=00:1B:79:F9:40:C2&stream=858538&extension=ts&play_token=7tTHynZN2T
 #EXTINF:-1 tvg-id="tvplay-sports" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/tvplay-sports.png",Go3 Sport 1 HD
 http://cdn.balelbrus.com/bigteisti9/TV3_Sport_LT/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="tvplay-sports-plus" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/tvplay-sports-plus.png",Go3 Sport 2 HD
@@ -3544,6 +3578,8 @@ http://n8eolldx.tvclub.xyz/iptv/QL63XCPSAXD83XW54XEES2PB/19330/index.m3u8
 http://n8eolldx.tvclub.xyz/iptv/QL63XCPSAXD83XW54XEES2PB/19331/index.m3u8
 #EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Спортивные" tvg-logo="http://epg.one/img2/6816.png",Silk Sport 3 HD
 http://n8eolldx.tvclub.xyz/iptv/QL63XCPSAXD83XW54XEES2PB/19332/index.m3u8
+#EXTINF:-1 group-title="Спортивные" tvg-id="sportsnet-ny-sny-us" tvg-logo="http://1lot.tv/ch/7932.png" catchup-type="flussonic" catchup-days="0",SNY: SportsNet New Yor
+http://s.only4.tv/9027/video.m3u8?token=Uqxoga1IGq
 #EXTINF:-1 tvg-id="sky-sports-maine" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/sky-sports-maine.png",Sky Sports Main Event British HD
 http://tchaikovsky.af-stream.com:8080/s/whxqyupu/sky-sports-main-event-uk-hd/video.m3u8
 #EXTINF:-1 group-title="Спортивные" tvg-id="sport1-baltic" tvg-logo="https://epg.iptvx.one/picons/sport1-baltic.png" catchup-type="flussonic" catchup-days="3",Sport 1 Baltic
@@ -3568,6 +3604,8 @@ http://n8eolldx.tvclub.xyz/iptv/QL63XCPSAXD83XW54XEES2PB/6828/index.m3u8
 http://cdn.balelbrus.com/bigteisti1/S_SPORT_TR/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="s-sport-2-tr" catchup="flussonic" catchup-days="3" group-title="Спортивные" tvg-logo="https://epg.iptvx.one/picons/s-sport-2-tr.png",S Sport 2 HD
 http://cdn.balelbrus.com/bigteisti1/S_SPORT_2_TR/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 group-title="Спортивные" tvg-id="sportsnet-360-ca" tvg-logo="https://epg.iptvx.one/picons/sportsnet-360-ca.png" catchup-type="flussonic" catchup-days="1",SportsNet 360 HD
+http://s.only4.tv/9027/video.m3u8?token=Uqxoga1IGq
 #EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Спортивные" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/tay_tv.png",TAY TV HD
 http://line.tivi-one.net:80/play/live.php?mac=00:1B:79:F9:40:C2&stream=18646&extension=ts&play_token=mzWnNRSSSl
 #EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Спортивные" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tjk_tv_logo.png/330px-Tjk_tv_logo.png",TJK TV HD
