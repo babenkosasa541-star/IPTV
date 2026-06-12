@@ -1255,8 +1255,8 @@ http://91.221.252.12:82/tv3
 http://31.131.141.195:8000/play/a006/index.m3u8
 #EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Региональные" tvg-logo="https://iptvx.one/assets/files/2025-03-23/1742709607-556210-oplot2200.png",Оплот 2 (Донецк)
 http://91.224.16.9:7779/Oplot_2/index.m3u8
-#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Региональные" tvg-logo="https://dl.dropbox.com/scl/fi/4xmykiepnp9rardyptgcm/S7SaFHkvpW0bBNndH2xJRgQDlwRQ5W5y3rJAX8fXBMH85jF-alP79lSl7FZJebmZBsyvutwW25vWzOkTdk5GvRql0xUoBrlhCyCQ-W8lRQYwNps0CaxWY-P6aF6KlrFYIHahl5PDUjehTMRfEDWorVrVlh4lG1aiovWF9zLC16xfhLqYxftERWs0_GG7qBXGSNKPNOgAXtP-MtW3L37x7Gh.webp?rlkey=dtz6bw10aslnmkv88y6rdm9k5&dl=0g",Ореол 1 (Гатчина)
-https://rec102.24h.tv/hlsjwt/edd02e1d5606bf0090887b7de9576ac7926dd1b3-7010-0-24h857230454-1-522768633-1780215312-e128-NIrLM8Q-tGFYna-Ld8hnMe7s7EP4xzVg3XQUzOH8Tvs/index.m3u8?ml=true
+#EXTINF:-1 tvg-id="no_epg" catchup="flussonic" catchup-days="0" group-title="Региональные" tvg-logo="https://dl.dropbox.com/scl/fi/4xmykiepnp9rardyptgcm/S7SaFHkvpW0bBNndH2xJRgQDlwRQ5W5y3rJAX8fXBMH85jF-alP79lSl7FZJebmZBsyvutwW25vWzOkTdk5GvRql0xUoBrlhCyCQ-W8lRQYwNps0CaxWY-P6aF6KlrFYIHahl5PDUjehTMRfEDWorVrVlh4lG1aiovWF9zLC16xfhLqYxftERWs0_GG7qBXGSNKPNOgAXtP-MtW3L37x7Gh.webp?rlkey=dtz6bw10aslnmkv88y6rdm9k5&dl=0g",Ореол 1 HD (Гатчина)
+https://rec101.24h.tv/hlsjwt/15e0024d980be23929c352140a6e3abf60e80ea5-7010-0-24h947196793-1-522768501-1781292142-e128-IxpisNOr_LCO_EbSptmomuQbtRGLs5tlUxp_qF4DqPg/index.m3u8?ml=true
 #EXTINF:-1 tvg-id="ort-planeta-orenburg" catchup="flussonic" catchup-days="0" group-title="Региональные" tvg-logo="https://iptvx.one/picons/ort-planeta-orenburg.png",ОРТ-Планета HD (Оренбург)
 https://river-1.rutube.ru/stream/genetta-302.m9.rutube.ru/CW2G_t4JD-ELMr2119EUyA/1781852320/02fb6df9e349e16a606530b25905a1f5/1080p_stream.m3u8
 #EXTINF:-1 tvg-id="osetia-iryston" catchup="flussonic" catchup-days="3" group-title="Региональные" tvg-logo="https://iptvx.one/picons/osetia-iryston.png",Осетия-Ирыстон HD (Владикавказ)
