@@ -1818,6 +1818,10 @@ http://cdn.balelbrus.com/bigteisti6/kAleiydoskop_tv/index.m3u8?token=eG1lbnRzMnx
 http://cdn.balelbrus.com/bigteisti9/kluch_hd/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="kvn-tv" catchup="flussonic" catchup-days="3" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/kvn-tv.png",КВН ТВ
 http://live.uspeh-bil.ru/8330/video.m3u8?token=UBwVqZcPL8UPmoYU
+#EXTINF:-1 tvg-id="narod-vsio-vidit" catchup="flussonic" catchup-days="3" group-title="Разлекательные" tvg-logo="https://epg.iptvx.one/picons/narod-vsio-vidit.png",Наше весёлое вечное
+http://cdn.balelbrus.com/bigteisti19/09946955/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="nowy-igrowoj" catchup="flussonic" catchup-days="3" group-title="Разлекательные" tvg-logo="https://epg.iptvx.one/picons/nowy-igrowoj.png",Новый игровой канал
+http://cdn.balelbrus.com/bigteisti19/08946923/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="nostalgia" catchup="flussonic" catchup-days="3" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/nostalgia.png",Ностальгия
 http://live.uspeh-bil.ru/8046/video.m3u8?token=UBwVqZcPL8UPmoYU
 #EXTINF:-1 tvg-id="perec-int" catchup="flussonic" catchup-days="3" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/perec-int.png",Перец International
@@ -1829,6 +1833,8 @@ https://river-1.rutube.ru/stream/genetta-302.m9.rutube.ru/nCz3hqqOSthAjw7AuzDrKg
 http://a3104942360-s80718.cdn.ngenix.net/hls/CH_FRIDAY/video_800x450_avc1/playlist.m3u8?useseq=t
 #EXTINF:-1 tvg-id="sarafan" catchup="flussonic" catchup-days="3" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/sarafan.png",Сарафан
 http://live.uspeh-bil.ru/8020/video.m3u8?token=UBwVqZcPL8UPmoYU
+#EXTINF:-1 tvg-id="smotrim-100-prazdnik" catchup="flussonic" catchup-days="3" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-prazdnik.png",Смотрим 100% Праздник HD
+http://cdn.balelbrus.com/bigteisti2/aa_2_5015/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="sts-int" catchup="flussonic" catchup-days="3" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/sts.png",СТС International
 http://s.only4.tv/7837/video.m3u8?token=YDdExcfwrK
 #EXTINF:-1 tvg-id="sts-love" catchup="flussonic" catchup-days="3" group-title="Развлекательные" tvg-logo="https://epg.iptvx.one/picons/sts-love.png",СТС Love
@@ -3031,6 +3037,10 @@ http://cdn.balelbrus.com/bigteisti9/rusiluzhd/index.m3u8?token=eG1lbnRzMnx8V0RnN
 http://cdn.balelbrus.com/bigteisti8/RUSROMAN/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="sapfir" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/sapfir.png",Сапфир HD
 http://live.uspeh-bil.ru/8169/video.m3u8?token=UBwVqZcPL8UPmoYU
+#EXTINF:-1 tvg-id="smotrim-100-klassika" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-klassika.png",Смотрим 100% Классика HD
+http://cdn.balelbrus.com/bigteisti2/aa_2_5012/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="smotrim-100-lubov" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-lubov.png",Смотрим 100% Любовь HD
+http://cdn.balelbrus.com/bigteisti2/aa_2_5013/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="sov-kinklass-hd" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/sov-kinklass-hd.png",Советская киноклассика HD
 http://cdn.balelbrus.com/bigteisti10/08936904/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="sovkino" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы" tvg-logo="https://epg.iptvx.one/picons/sovkino.png",Советское кино HD
@@ -3255,6 +3265,8 @@ http://cdn.balelbrus.com/bigteisti9/PERVIYKOSMICHESKIY/index.m3u8?token=eG1lbnRz
 http://91.186.196.185/hls/hotels/stream.m3u8
 #EXTINF:-1 tvg-id="pes-i-ko" catchup="flussonic" catchup-days="3" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/pes-i-ko.png",Пёс и Ко
 http://n8eolldx.tvclub.xyz/iptv/QL63XCPSAXD83XW54XEES2PB/2123/index.m3u8
+#EXTINF:-1 tvg-id="ruskorabl" catchup="flussonic" catchup-days="3" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/ruskorabl.png",Плюс/Минус 16 HD
+http://cdn.balelbrus.com/bigteisti19/08946924/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="poexali" catchup="flussonic" catchup-days="3" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/poexali.png",Поехали! HD
 http://cdn.balelbrus.com/bigteisti2/Poehali/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="poliottv" catchup="flussonic" catchup-days="0" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/poliottv.png",Полёт ТВ HD
@@ -3279,6 +3291,12 @@ http://94.250.255.172/ptv/kztelecom/ch.php?id=65cdeeb9d1912468fa9ce6d3
 http://tchaikovsky.af-stream.com:8080/s/whxqyupu/ohotnik-rybolov/video.m3u8
 #EXTINF:-1 tvg-id="svetloe-tv" catchup="flussonic" catchup-days="3" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/svetloe-tv.png",Светлое ТВ
 http://cdn.balelbrus.com/bigteisti1/bel_svetloe/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="smotrim-100-muzhskoe" catchup="flussonic" catchup-days="3" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-muzhskoe.png",Смотрим 100% Мужское HD
+http://cdn.balelbrus.com/bigteisti2/aa_2_5014/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="smotrim-100-fakty" catchup="flussonic" catchup-days="3" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-fakty.png",Смотрим 100% Факты HD
+http://cdn.balelbrus.com/bigteisti2/aa_2_5016/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="smotrim-chestny-detektiv" catchup="flussonic" catchup-days="3" group-title="Кино и сериалы" tvg-logo="https://p.rapidnas.org/img/logos/kinoInt/chestny-detektiv.png",Смотрим Честный детектив HD
+http://cdn.balelbrus.com/bigteisti2/aa_2_5017/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="texno-24" catchup="flussonic" catchup-days="3" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/texno-24.png",Т24
 http://cdn.balelbrus.com/bigteisti2/tehno24/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="tayna" catchup="flussonic" catchup-days="3" group-title="Познавательные" tvg-logo="https://epg.iptvx.one/picons/tayna.png",Тайна
@@ -4173,6 +4191,8 @@ http://tchaikovsky.af-stream.com:8080/s/whxqyupu/ryzhij/video.m3u8
 http://cdn.balelbrus.com/bigteisti19/09946933/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="smaylik-tv" group-title="Детские catchup="flussonic" catchup-days="3"  tvg-logo="https://epg.iptvx.one/picons/smaylik-tv.png",Смайл ТВ HD
 http://cdn.balelbrus.com/bigteisti6/smAiylik_tv/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
+#EXTINF:-1 tvg-id="smotrim-100-detskoe" catchup="flussonic" catchup-days="3" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/smotrim-100-detskoe.png",Смотрим 100% Детское HD
+http://cdn.balelbrus.com/bigteisti1/aa_2_5011/index.m3u8?token=eG1lbnRzMnx8V0RnNU1EZ3hNek16TURZMWVBPT0=
 #EXTINF:-1 tvg-id="solnce" group-title="Детские" catchup="flussonic" catchup-days="3" tvg-logo="https://epg.iptvx.one/picons/solnce.png",Солнце
 http://live.uspeh-bil.ru/8054/video.m3u8?token=UBwVqZcPL8UPmoYU 
 #EXTINF:-1 tvg-id="sts-kids-hd" catchup="flussonic" catchup-days="3" group-title="Детские" tvg-logo="https://epg.iptvx.one/picons/sts-kids-hd.png",СТС Kids HD
